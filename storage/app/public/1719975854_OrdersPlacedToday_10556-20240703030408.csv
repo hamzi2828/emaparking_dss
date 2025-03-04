@@ -1,0 +1,5 @@
+Reference,Order Price,Drop Off Date/Time,Return Date/Time,Car Reg,Status,Order Date,Departure Flight Number,Departure Terminal,Return Flight Number,Return Terminal,Make,Model,Car Colour,Contact Number,No of Passengers,Third Party Reference,Customer Full Name,Transaction Currency,Product Native Currency,Product Native Price,Purchase Model,Deposit Amount,Car Park Balance
+SPS-1-6588370,75.00,2024/07/04 13:45:00,2024/07/08 00:30:00,FM16EDL,ACTIVE,2024/07/02 06:55:30,Jet2LS643,Main,Jet2LS644,Main,BMW,3Series,GREY,07907452807,2,,Lisa Carter,GBP,GBP,75.00,FullPrice,0.00,0.00
+SPS-1-6589129,75.00,2024/07/04 04:30:00,2024/07/08 12:30:00,WM73HGA,ACTIVE,2024/07/02 12:25:33,FR1662,Main,FR1663,Main,AUDI,A3,WHITE,07943010551,2,,Chelsea Shaw,GBP,GBP,75.00,FullPrice,0.00,0.00
+SPS-1-6590176,145.00,2024/07/29 11:30:00,2024/08/16 16:30:00,DE12WZX,ACTIVE,2024/07/02 19:10:03,LS657,Main,LS658,Main,VAUXHALL,Insignia,SILVER,07703688134,2,,Nicola Weatherall,GBP,GBP,145.00,FullPrice,0.00,0.00
+L4P-1-6588366,100.00,2024/07/23 12:00:00,2024/08/01 02:00:00,CE12OHV,ACTIVE,2024/07/02 06:44:13,,Main,,Main,,,,+447500038509,1,,Amber Hughes,GBP,GBP,100.00,FullPrice,0.00,0.00

@@ -1,0 +1,4 @@
+Reference,Order Price,Drop Off Date/Time,Return Date/Time,Car Reg,Status,Order Date,Departure Flight Number,Departure Terminal,Return Flight Number,Return Terminal,Make,Model,Car Colour,Contact Number,No of Passengers,Third Party Reference,Customer Full Name,Transaction Currency,Product Native Currency,Product Native Price,Purchase Model,Deposit Amount,Car Park Balance
+SPS-1-6138257,57.00,2024/02/12 04:00:00,2024/02/20 17:00:00,FE15NYA,ACTIVE,2024/01/04 13:07:51,Fr3152,Main,Fr3153,Main,AUDI,A4,GREY,07845733003,5,,Michal Samiczak,GBP,GBP,57.00,FullPrice,0.00,0.00
+SPS-1-6138921,50.00,2024/01/06 05:00:00,2024/01/10 19:30:00,FY11LPF,ACTIVE,2024/01/04 18:00:34,FR1724,Main,FR1725,Main,AUDI,A4,GREY,07574355708,1,,Jolanta Przybylo,GBP,GBP,50.00,FullPrice,0.00,0.00
+L4P-1-6139509,60.00,2024/01/14 05:00:00,2024/01/21 16:00:00,FL66OCP,ACTIVE,2024/01/04 21:42:48,LS685,Main,LS686,Main,Vauxhall,Mocca,White,+447588584578,2,,Raymond  Speed,GBP,GBP,60.00,FullPrice,0.00,0.00

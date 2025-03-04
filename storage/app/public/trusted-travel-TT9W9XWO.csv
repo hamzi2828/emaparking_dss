@@ -1,0 +1,2 @@
+status,booked_at,booking_reference,source,product_code,product_name,airport_code,arrival_date,departure_date,price,supplier_cost,name,contact_number,car_registration,car_manufacture,car_model,car_colour,passengers,out_flight,return_flight,out_terminal,return_terminal,flight_departure_time,flight_return_time
+new,"2023-08-18 19:39:33",TT9W9XWO,"Trusted Travel",EMAMGNF,"Midlands Airport Meet and Greet - Non Flex",EMA,"2023-08-29 05:30:00","2023-09-05 15:30:00",90.00,63.00,"Paul Ward",07817641970,DS70XXA,MAZDA,"CX-5 SE-L",RED,1,,,,,,

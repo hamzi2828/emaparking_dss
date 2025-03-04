@@ -1,0 +1,6 @@
+Reference,Order Price,Drop Off Date/Time,Return Date/Time,Car Reg,Status,Order Date,Departure Flight Number,Departure Terminal,Return Flight Number,Return Terminal,Make,Model,Car Colour,Contact Number,No of Passengers,Third Party Reference,Customer Full Name,Transaction Currency,Product Native Currency,Product Native Price,Purchase Model,Deposit Amount,Car Park Balance
+SPS-1-6275253,58.00,2024/03/04 03:45:00,2024/03/08 16:00:00,YE17CWF,ACTIVE,2024/03/01 10:27:29,FR3162,Main,FR3163,Main,VOLKSWAGEN,Golf,WHITE,07704182652,2,,Sara Lake,GBP,GBP,58.00,FullPrice,0.00,0.00
+SPS-1-6275280,67.00,2024/03/15 04:00:00,2024/03/22 16:30:00,M155FSA,ACTIVE,2024/03/01 10:36:16,FR3162,Main,FR3163,Main,BMW,320ise,White,7928951460,2,,Mellissa Fisher,GBP,GBP,67.00,FullPrice,0.00,0.00
+SPS-1-6275606,55.00,2024/03/06 10:00:00,2024/03/09 13:00:00,YJ68XHP,ACTIVE,2024/03/01 12:27:18,FR1724,Main,FR1725,Main,BMW,2Series,ORANGE,07961179866,2,,Simone Saunders,GBP,GBP,55.00,FullPrice,0.00,0.00
+SPS-1-6275932,50.00,2024/03/02 16:30:00,2024/03/03 23:15:00,BN63DCV,ACTIVE,2024/03/01 14:29:08,FR1761,Main,FR1767,Main,AUDI,A3,WHITE,07340471486,2,,Jakub Podlaski,GBP,GBP,50.00,FullPrice,0.00,0.00
+SPS-1-6277127,55.00,2024/03/06 03:00:00,2024/03/09 23:30:00,AJ22YLU,ACTIVE,2024/03/01 21:41:30,Fr9085,Main,Fr9084,Main,MG,HS,RED,07739989061,1,,Lucy Goldsmith,GBP,GBP,55.00,FullPrice,0.00,0.00

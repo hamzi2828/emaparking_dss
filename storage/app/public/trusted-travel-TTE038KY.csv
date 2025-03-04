@@ -1,0 +1,2 @@
+status,booked_at,booking_reference,source,product_code,product_name,airport_code,arrival_date,departure_date,price,supplier_cost,name,contact_number,car_registration,car_manufacture,car_model,car_colour,passengers,out_flight,return_flight,out_terminal,return_terminal,flight_departure_time,flight_return_time
+new,"2023-10-01 18:45:14",TTE038KY,"Trusted Travel",EMAMGNF,"Midlands Airport Meet and Greet - Non Flex",EMA,"2023-10-22 11:30:00","2023-11-01 00:30:00",99.00,69.30,"Jack Hiorns ",07517437428,"OY73 UST","Polestar ","Polestar 2","Magnesium ",1,,,,,,

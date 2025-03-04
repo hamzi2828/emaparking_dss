@@ -1,0 +1,3 @@
+Reference,Order Price,Drop Off Date/Time,Return Date/Time,Car Reg,Status,Order Date,Departure Flight Number,Departure Terminal,Return Flight Number,Return Terminal,Make,Model,Car Colour,Contact Number,No of Passengers,Third Party Reference,Customer Full Name,Transaction Currency,Product Native Currency,Product Native Price,Purchase Model,Deposit Amount,Car Park Balance
+SPS-1-6043591,60.00,2023/11/17 03:00:00,2023/11/24 16:00:00,KM66KHT,ACTIVE,2023/11/14 17:20:40,Fr3162,Main,Fr3163,Main,KIA,Picanto,WHITE,07733291939,1,,Fredrick Moxon,GBP,GBP,60.00,FullPrice,0.00,0.00
+SPS-1-6043633,75.00,2024/02/01 04:00:00,2024/02/15 19:00:00,LT65YHR,ACTIVE,2023/11/14 17:45:55,LS669,Main,LS670,Main,MERCEDESBENZ,AClass,BLUE,07801777067,1,,Trevor Williams,GBP,GBP,75.00,FullPrice,0.00,0.00

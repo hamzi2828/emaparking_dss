@@ -1,0 +1,3 @@
+Reference,Order Price,Drop Off Date/Time,Return Date/Time,Car Reg,Status,Order Date,Departure Flight Number,Departure Terminal,Return Flight Number,Return Terminal,Make,Model,Car Colour,Contact Number,No of Passengers,Third Party Reference,Customer Full Name,Transaction Currency,Product Native Currency,Product Native Price,Purchase Model,Deposit Amount,Car Park Balance
+SPS-1-6579044,96.00,2024/07/27 03:00:00,2024/08/10 17:00:00,AK12VSN,ACTIVE,2024/06/28 15:57:46,FR3152,Main,FR3153,Main,VAUXHALL,Zafira,SILVER,07402894116,5,,David Hanson,GBP,GBP,96.00,FullPrice,0.00,0.00
+L4P-1-6578941,60.00,2024/07/04 06:30:00,2024/07/08 02:00:00,KV64UAC,ACTIVE,2024/06/28 15:07:03,Fr3854,Main,Fr3853,Main,Volkswagen,Golf,Red,+447802594556,2,,David Spooner,GBP,GBP,60.00,FullPrice,0.00,0.00

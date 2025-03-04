@@ -1,0 +1,4 @@
+Reference,Order Price,Drop Off Date/Time,Return Date/Time,Car Reg,Status,Order Date,Departure Flight Number,Departure Terminal,Return Flight Number,Return Terminal,Make,Model,Car Colour,Contact Number,No of Passengers,Third Party Reference,Customer Full Name,Transaction Currency,Product Native Currency,Product Native Price,Purchase Model,Deposit Amount,Car Park Balance
+SPS-1-6462891,78.00,2024/06/01 04:00:00,2024/06/08 14:00:00,VO70FGU,ACTIVE,2024/05/12 11:14:18,Fr1766,Main,Fr1767,Main,NISSAN,Qashqai,WHITE,07779262997,5,,Gemma Dyer,GBP,GBP,78.00,FullPrice,0.00,0.00
+SPS-1-6462956,58.00,2024/05/16 14:15:00,2024/05/19 15:30:00,YX62TDZ,ACTIVE,2024/05/12 11:44:50,FR4468,Main,LS606,Main,NISSAN,Qashqai,WHITE,07793025868,3,,Kelly Hebden,GBP,GBP,58.00,FullPrice,0.00,0.00
+L4P-1-6462958,82.00,2024/05/24 03:30:00,2024/06/02 22:30:00,FV61ZZS,ACTIVE,2024/05/12 11:45:25,FR9185,Main,FR9184,Main,Citroen,C3,Blue,+447917101810,4,,Julie Harrison,GBP,GBP,82.00,FullPrice,0.00,0.00

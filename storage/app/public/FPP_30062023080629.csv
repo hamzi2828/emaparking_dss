@@ -1,0 +1,2 @@
+ProductCode,Refno,Airport,BookingDate,BookingTime,DepartureDate,DepartureTime,ReturnDate,ReturnTime,DepartureTerminal,ReturnTerminal,TotalDays,Title,FirstName,LastName,Telephone,BookingPrice,DeptFlight,ReturnFlight,AirportLevyFee,CarMake,CarModel,CarColor,CarRegistration,BookingStatus
+FPP646,TP-23063013360,"East Midlands ",2023-06-30,08:55:13,2023-07-02,02:30:00,2023-07-09,13:00:00,Main,Main,8,Mr,Jim,McCartney,07956554402,95.00,TBA,TOM7701,0,Nissan,Xtrail,White,H101NDA,Next

@@ -1,0 +1,59 @@
+Authentication-Results: relay2.stackmail.com;
+	iprev=fail smtp.remote-ip=10.4.13.36
+Received: from [10.4.13.36] (helo=smtp2.lhr.stackcp.net)
+	by relay2.stackmail.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.96)
+	(envelope-from <bookings@emaparking.co.uk>)
+	id 1rIDqi-0007xU-2n
+	for booking@emaparking.co.uk;
+	Tue, 26 Dec 2023 20:16:25 +0000
+Received: from [45.8.227.175] (helo=www.stackmail.com)
+	by smtp2.lhr.stackcp.net with esmtpa (Exim 4.96)
+	(envelope-from <bookings@emaparking.co.uk>)
+	id 1rIDqj-0007qZ-0N
+	for booking@emaparking.co.uk;
+	Tue, 26 Dec 2023 20:16:25 +0000
+MIME-Version: 1.0
+Date: Tue, 26 Dec 2023 20:16:25 +0000
+From: bookings@emaparking.co.uk
+To: Booking <booking@emaparking.co.uk>
+Subject: Fwd: APH M&G Bookings
+In-Reply-To: <20231226184105.00AFAE0041@extras101>
+References: <20231226184105.00AFAE0041@extras101>
+Message-ID: <d5e21df75e44fec66455288667ed3872@emaparking.co.uk>
+X-Sender: bookings@emaparking.co.uk
+Content-Type: multipart/mixed;
+ boundary="=_0253309021d8b1d64c5a19122f36e637"
+X-Authenticated-Sender: bookings@emaparking.co.uk
+X-Scan-Signature: cfdc393270692dd0c2b9191d65472aa0
+
+--=_0253309021d8b1d64c5a19122f36e637
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset=US-ASCII;
+ format=flowed
+
+
+
+-------- Original Message --------
+Subject: APH M&G Bookings
+Date: 2023-12-26 18:40
+ From: "APH Reservations"<admin@aph.com>
+To: ""<aph@emaparking.co.uk>
+
+
+--=_0253309021d8b1d64c5a19122f36e637
+Content-Transfer-Encoding: base64
+Content-Type: text/plain; charset=us-ascii;
+ name=APH261223.csv
+Content-Disposition: attachment;
+ filename=APH261223.csv;
+ size=364
+
+IjEwMyIsIk5FVyAgICAiLCJHRE40WSAgIiwiICAgICAgICAgICAgICAgICAgICIsIjA4LzAyLzI0
+IiwiTXIgICIsIlAiLCJZTDE3UkZPICAgIiwiTUlOSSAgICAgICIsIkdSRVkgICAgICAiLCIgMyIs
+IjA2OjMwIiwiTFM2MzMgICIsIjAwMDAwNDAuNjAiLCIgICAgICAgIiwiMTUvMDIvMjQiLCIyMDow
+MCIsIkxTNjM0ICAiLCIgIiwiICIsIiAgICAiLCJUcmFwbW9yZSAgICAgICAgICAgICIsIjI2LzEy
+LzIzIiwiMDA6MDAiLCIgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAiLCIgIiwiMTAiLCIiLCIiLCIgICAgIiwiICAgICIsIjA3NzUyNjI1
+MDQzICIsIiAgICAgICAgICAgICINCg==
+--=_0253309021d8b1d64c5a19122f36e637--

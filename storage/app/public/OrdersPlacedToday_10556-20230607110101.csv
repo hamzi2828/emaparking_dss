@@ -1,0 +1,3 @@
+Reference,Order Price,Drop Off Date/Time,Return Date/Time,Car Reg,Status,Order Date,Departure Flight Number,Departure Terminal,Return Flight Number,Return Terminal,Make,Model,Car Colour,Contact Number,No of Passengers,Third Party Reference,Customer Full Name,Transaction Currency,Product Native Currency,Product Native Price,Purchase Model,Deposit Amount,Car Park Balance
+SPS-1-5657498,80.00,2023/06/08 13:00:00,2023/06/11 14:00:00,EF18GKK,ACTIVE,2023/06/07 10:07:03,Fr2075,Main,Fr2076,Main,BMW,2SERIES,WHITE,07846417293,3,,Michele Stewart,GBP,GBP,80.00,FullPrice,0.00,0.00
+L4P-1-5657572,90.00,2023/06/13 11:00:00,2023/06/17 17:00:00,P9ONG,ACTIVE,2023/06/07 10:32:53,FR1638,Main,FR1639,Main,BMW,X5,Light grey,+447877876990,2,,Alan James,GBP,GBP,90.00,FullPrice,0.00,0.00

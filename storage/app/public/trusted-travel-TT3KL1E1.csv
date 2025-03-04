@@ -1,0 +1,2 @@
+status,booked_at,booking_reference,source,product_code,product_name,airport_code,arrival_date,departure_date,price,supplier_cost,name,contact_number,car_registration,car_manufacture,car_model,car_colour,passengers,out_flight,return_flight,out_terminal,return_terminal,flight_departure_time,flight_return_time
+new,"2023-07-28 16:31:53",TT3KL1E1,"Trusted Travel",EMAMGNF,"Midlands Airport Meet and Greet - Non Flex",EMA,"2023-07-31 11:00:00","2023-08-10 12:30:00",105.00,73.50,"Vytautas Rinkevi?ius",07500059545,"GY67KLM ",BMW,"525D M SPORT AUTO",BLACK,1,,,,,,

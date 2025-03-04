@@ -1,0 +1,64 @@
+Authentication-Results: relay1.stackmail.com;
+	iprev=fail smtp.remote-ip=10.4.12.32
+Received: from [10.4.12.32] (helo=smtp1.lhr.stackcp.net)
+	by relay1.stackmail.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.96)
+	(envelope-from <bookings@emaparking.co.uk>)
+	id 1s5wie-0008Ro-2u
+	for booking@emaparking.co.uk;
+	Sun, 12 May 2024 01:05:37 +0100
+Received: from shared-external-lhr1.stackcp.com ([45.8.227.175] helo=www.stackmail.com)
+	by smtp1.lhr.stackcp.net with esmtpa (Exim 4.96)
+	(envelope-from <bookings@emaparking.co.uk>)
+	id 1s5wif-0007ni-0U
+	for booking@emaparking.co.uk;
+	Sun, 12 May 2024 01:05:37 +0100
+MIME-Version: 1.0
+Date: Sun, 12 May 2024 01:05:37 +0100
+From: bookings@emaparking.co.uk
+To: Booking <booking@emaparking.co.uk>
+Subject: Fwd: FHR Parking Reservations
+In-Reply-To: <808A837404E7487DB03AD56D850FB28C@FHRWeb2008>
+References: <808A837404E7487DB03AD56D850FB28C@FHRWeb2008>
+Message-ID: <e680e1ee6feb051fafe9daa1f2b46057@emaparking.co.uk>
+X-Sender: bookings@emaparking.co.uk
+Content-Type: multipart/mixed;
+ boundary="=_2f8f5cff946750b564f2e9d6184462c7"
+X-Authenticated-Sender: bookings@emaparking.co.uk
+X-Scan-Signature: 7a8371b0b9f3c6e1706d15aa71025c6f
+
+--=_2f8f5cff946750b564f2e9d6184462c7
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset=US-ASCII;
+ format=flowed
+
+
+
+-------- Original Message --------
+Subject: FHR Parking Reservations
+Date: 2024-05-11 19:50
+ From: reservations@bookfhr.com
+To: bookings@emaparking.co.uk
+
+FHR Airport Services Ltd. Registered in England. Company Number 07156413 
+Registered Office: Unit 7 Borers Yard, Borers Arms Road, Copthorne, West 
+Sussex, RH10 3LH
+--=_2f8f5cff946750b564f2e9d6184462c7
+Content-Transfer-Encoding: base64
+Content-Type: application/octet-stream;
+ name=46472_3003.csv
+Content-Disposition: attachment;
+ filename=46472_3003.csv;
+ size=555
+
+UmVmZXJlbmNlLE9yZGVyIFByaWNlLERyb3AgT2ZmIERhdGUvVGltZSxSZXR1cm4gRGF0ZS9UaW1l
+LENhciBSZWcsU3RhdHVzLE9yZGVyIERhdGUsRGVwYXJ0dXJlIEZsaWdodCBOdW1iZXIsRGVwYXJ0
+dXJlIFRlcm1pbmFsLFJldHVybiBGbGlnaHQgTnVtYmVyLFJldHVybiBUZXJtaW5hbCxNYWtlLE1v
+ZGVsLENhciBDb2xvdXIsQ29udGFjdCBOdW1iZXIsTm8gT2YgUGFzc2VuZ2VycyxUaGlyZCBQYXJ0
+eSBSZWZlcmVuY2UsQ3VzdG9tZXIgRnVsbG5hbWUsVHJhbnNhY3Rpb24gQ3VycmVuY3ksUHJvZHVj
+dCBOYXRpdmUgQ3VycmVuY3ksUHJvZHVjdCBOYXRpdmUgUHJpY2UsUHVyY2hhc2UgTW9kZWwsRGVw
+b3NpdCBBbW91bnQsQ2FyIFBhcmsgQmFsYW5jZQpOT05GTEVYLDg2LDA1LzA2LzIwMjQgMDQ6NDUs
+MTYvMDYvMjAyNCAxNDo0NSxZUzczIEJQVSxORVcsMTEvMDUvMjAyNCAxOTowNCxUQkMsVEJDLFRP
+TTc3OTUsVEJDLENBUFRVUiBIWSxDQVBUVVIgSFksR1JFWSwwNzkxNjA1NTUzNSwyLDEyMjkxMTYz
+OTksTXIgbSByb2JpbnNvbixHQlAsR0JQLDYyLjM1LCAsMCw2Mi4zNQoK
+--=_2f8f5cff946750b564f2e9d6184462c7--

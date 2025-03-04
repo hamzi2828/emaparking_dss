@@ -1,0 +1,2 @@
+status,booked_at,booking_reference,source,product_code,product_name,airport_code,arrival_date,departure_date,price,supplier_cost,name,contact_number,car_registration,car_manufacture,car_model,car_colour,passengers,out_flight,return_flight,out_terminal,return_terminal,flight_departure_time,flight_return_time
+new,"2023-08-20 15:31:56",TTE07JDQ,"Trusted Travel",EMAMGNF,"Midlands Airport Meet and Greet - Non Flex",EMA,"2023-08-31 03:30:00","2023-09-07 12:30:00",90.00,63.00,"Lynn & David Lovell",07936365871,"YO72 DXL",VAUXHALL,"MOKKA GS LINE TURBO AUTO",WHITE,1,,,,,,

@@ -1,0 +1,3 @@
+Reference,Order Price,Drop Off Date/Time,Return Date/Time,Car Reg,Status,Order Date,Departure Flight Number,Departure Terminal,Return Flight Number,Return Terminal,Make,Model,Car Colour,Contact Number,No of Passengers,Third Party Reference,Customer Full Name,Transaction Currency,Product Native Currency,Product Native Price,Purchase Model,Deposit Amount,Car Park Balance
+SPS-1-6095627,90.00,2023/12/22 12:00:00,2023/12/30 04:00:00,KB57ZZU,ACTIVE,2023/12/11 12:13:42,,Main,Fr3173,Main,Saab,93,Gray,07791570838,2,,Lukasz Pawlak,GBP,GBP,90.00,FullPrice,0.00,0.00
+SPS-1-6095657,60.00,2023/12/15 05:45:00,2023/12/22 18:30:00,KX19LKB,ACTIVE,2023/12/11 12:31:06,LS653,Main,LS654,Main,MERCEDESBENZ,Vito,SILVER,07429188365,1,,John Wright,GBP,GBP,60.00,FullPrice,0.00,0.00

@@ -1,0 +1,2 @@
+status,booked_at,booking_reference,source,product_code,product_name,airport_code,arrival_date,departure_date,price,supplier_cost,name,contact_number,car_registration,car_manufacture,car_model,car_colour,passengers,out_flight,return_flight,out_terminal,return_terminal,flight_departure_time,flight_return_time
+new,"2023-09-04 09:52:04",TT87L77E,"Trusted Travel",EMAMGCOV,"Midlands Airport Meet and Greet - Covered",EMA,"2023-09-06 13:30:00","2023-09-11 16:30:00",100.00,70.00,"Luke Cooper",07977777063,"MF22 XDY",FORD,"RANGER WILDTRAK ECOBLUE 4X4 A",SILVER,1,,,,,,

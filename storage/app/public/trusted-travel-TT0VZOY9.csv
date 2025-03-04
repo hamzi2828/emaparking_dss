@@ -1,0 +1,2 @@
+status,booked_at,booking_reference,source,product_code,product_name,airport_code,arrival_date,departure_date,price,supplier_cost,name,contact_number,car_registration,car_manufacture,car_model,car_colour,passengers,out_flight,return_flight,out_terminal,return_terminal,flight_departure_time,flight_return_time
+new,"2023-08-18 22:25:21",TT0VZOY9,"Trusted Travel",EMAMGNF,"Midlands Airport Meet and Greet - Non Flex",EMA,"2023-09-01 10:30:00","2023-09-08 19:00:00",90.00,63.00,"Paul Anthony Holmes",07359133785,"RE15 EWP",PORSCHE,"MACAN S D S-A",WHITE,1,,,,,,

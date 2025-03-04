@@ -1,0 +1,4 @@
+Reference,Order Price,Drop Off Date/Time,Return Date/Time,Car Reg,Status,Order Date,Departure Flight Number,Departure Terminal,Return Flight Number,Return Terminal,Make,Model,Car Colour,Contact Number,No of Passengers,Third Party Reference,Customer Full Name,Transaction Currency,Product Native Currency,Product Native Price,Purchase Model,Deposit Amount,Car Park Balance
+SPS-1-6513158,70.00,2024/06/02 16:00:00,2024/06/05 19:00:00,R6GCL,ACTIVE,2024/06/01 06:33:09,FR6601,Main,FR9490,Main,BMW,1Series,WHITE,07786265229,2,,Kerry Canetti,GBP,GBP,70.00,FullPrice,0.00,0.00
+SPS-1-6513365,85.00,2024/06/02 13:30:00,2024/06/08 23:30:00,DS62EBK,ACTIVE,2024/06/01 09:04:09,LS643,Main,LS644,Main,VAUXHALL,Astra,SILVER,07740933974,2,,Daniel Warsop,GBP,GBP,85.00,FullPrice,0.00,0.00
+L4P-1-6514012,95.00,2024/06/08 15:00:00,2024/06/16 01:30:00,YM69HGY,ACTIVE,2024/06/01 14:35:13,Ls603,Main,Ls604,Main,Audi,A4 avant,Black,+447469941510,3,,Simon Hewitt,GBP,GBP,95.00,FullPrice,0.00,0.00

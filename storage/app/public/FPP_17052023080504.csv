@@ -1,0 +1,2 @@
+ProductCode,Refno,Airport,BookingDate,BookingTime,DepartureDate,DepartureTime,ReturnDate,ReturnTime,DepartureTerminal,ReturnTerminal,TotalDays,Title,FirstName,LastName,Telephone,BookingPrice,DeptFlight,ReturnFlight,AirportLevyFee,CarMake,CarModel,CarColor,CarRegistration,BookingStatus
+FPP646,TP-23051712935,"East Midlands ",2023-05-17,20:35:00,2023-05-23,05:00:00,2023-05-30,14:00:00,Main,Main,8,Mr,"Peter ","Shipman ",07917818907,90.00,TBA,Ls678,0,"Range rover ","Evogue ","Silver/ black ","PS03TAN ",Next

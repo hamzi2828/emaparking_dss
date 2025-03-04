@@ -1,0 +1,16 @@
+/*# sourceMappingURL=app.custom.css.map */
+.overflow-visible {
+    overflow: visible !important;
+}
+
+@media (min-width: 992px) {
+    .overflow-lg-visible {
+        overflow: visible !important;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .min-height-sm-300 {
+        min-height: 300px;
+    }
+}

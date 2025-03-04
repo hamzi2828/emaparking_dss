@@ -1,0 +1,3 @@
+Reference,Order Price,Drop Off Date/Time,Return Date/Time,Car Reg,Status,Order Date,Departure Flight Number,Departure Terminal,Return Flight Number,Return Terminal,Make,Model,Car Colour,Contact Number,No of Passengers,Third Party Reference,Customer Full Name,Transaction Currency,Product Native Currency,Product Native Price,Purchase Model,Deposit Amount,Car Park Balance
+SPS-1-6331793,61.00,2024/03/29 12:00:00,2024/04/01 22:30:00,VW70PJW,ACTIVE,2024/03/24 10:06:51,LS667,Main,LS668,Main,VOLKSWAGEN,Tiguan,GREY,07717787011,3,,Pete Wood,GBP,GBP,61.00,FullPrice,0.00,0.00
+SPS-1-6331794,61.00,2024/03/29 12:00:00,2024/04/01 22:30:00,FP72KTA,ACTIVE,2024/03/24 10:07:16,LS667,Main,LS668,Main,CITROEN,C3,GREY,07717787011,3,,Pete Wood,GBP,GBP,61.00,FullPrice,0.00,0.00

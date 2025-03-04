@@ -1,0 +1,3 @@
+Reference,Order Price,Drop Off Date/Time,Return Date/Time,Car Reg,Status,Order Date,Departure Flight Number,Departure Terminal,Return Flight Number,Return Terminal,Make,Model,Car Colour,Contact Number,No of Passengers,Third Party Reference,Customer Full Name,Transaction Currency,Product Native Currency,Product Native Price,Purchase Model,Deposit Amount,Car Park Balance
+SPS-1-5727461,110.00,2023/08/24 04:00:00,2023/09/04 12:00:00,R100DTY,ACTIVE,2023/07/06 06:23:31,FR3852,Main,FR3851,Main,BMW,5series,darkgrey,07838369059,4,,Ryan Roodt,GBP,GBP,110.00,FullPrice,0.00,0.00
+SPS-1-5727473,80.00,2023/07/17 10:00:00,2023/07/22 18:00:00,YE72NHG,ACTIVE,2023/07/06 06:34:32,FR1612,Main,FR1613,Main,VOLKSWAGEN,TAIGO,GREY,07943405289,4,,Daniel Wright,GBP,GBP,80.00,FullPrice,0.00,0.00

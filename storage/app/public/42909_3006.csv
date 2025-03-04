@@ -1,0 +1,4 @@
+Reference,Order Price,Drop Off Date/Time,Return Date/Time,Car Reg,Status,Order Date,Departure Flight Number,Departure Terminal,Return Flight Number,Return Terminal,Make,Model,Car Colour,Contact Number,No Of Passengers,Third Party Reference,Customer Fullname,Transaction Currency,Product Native Currency,Product Native Price,Purchase Model,Deposit Amount,Car Park Balance
+FHRSPECIAL,88,21/08/2023 05:00,25/08/2023 14:00,SK57WUL,NEW,19/06/2023 16:51,,,FR4459,,HYUNDI,HYUNDI,TUCSON,07909743484,1,2130192520,MRS J RIGSBY,GBP,GBP,63.8, ,0,63.8
+FHRSPECIAL,88,23/06/2023 11:00,30/06/2023 23:45,KW16HHK,NEW,19/06/2023 17:03,,,FR3163,,SUSUKI GRAN VITARA,SUSUKI GRAN VITARA,SILVER,07709564928,1,2130198367,MRS J PEARSON,GBP,GBP,63.8, ,0,63.8
+

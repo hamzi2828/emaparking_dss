@@ -1,0 +1,4 @@
+Reference,Order Price,Drop Off Date/Time,Return Date/Time,Car Reg,Status,Order Date,Departure Flight Number,Departure Terminal,Return Flight Number,Return Terminal,Make,Model,Car Colour,Contact Number,No of Passengers,Third Party Reference,Customer Full Name,Transaction Currency,Product Native Currency,Product Native Price,Purchase Model,Deposit Amount,Car Park Balance
+SPS-1-6567087,84.00,2024/07/25 06:00:00,2024/08/04 23:55:00,YY21XOF,ACTIVE,2024/06/24 06:05:32,ap6586,Main,Tom7757,Main,Mitsubishi,L200,Blue,07710826739,4,,Oliver Spicer,GBP,GBP,84.00,FullPrice,0.00,0.00
+SPS-1-6567095,84.00,2024/07/25 06:00:00,2024/08/04 23:55:00,K1MTN,ACTIVE,2024/06/24 06:15:47,ap6586,Main,tom7757,Main,Mercedes,GLE,Black,07853180514,2,,Barry Thompson,GBP,GBP,84.00,FullPrice,0.00,0.00
+SPS-1-6567103,72.00,2024/07/25 06:00:00,2024/08/01 10:00:00,YX24HXF,ACTIVE,2024/06/24 06:20:19,ap6586,Main,ap6585,Main,bmw,ix,Black,07812755971,4,,Matthew Thompson,GBP,GBP,72.00,FullPrice,0.00,0.00

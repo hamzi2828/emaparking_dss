@@ -1,0 +1,2 @@
+status,booked_at,booking_reference,source,product_code,product_name,airport_code,arrival_date,departure_date,price,supplier_cost,name,contact_number,car_registration,car_manufacture,car_model,car_colour,passengers,out_flight,return_flight,out_terminal,return_terminal,flight_departure_time,flight_return_time
+new,"2023-07-05 21:23:21",TTQXZW76,"Trusted Travel",EMAMGTT,"Trusted Meet and Greet",EMA,"2023-07-11 11:00:00","2023-07-18 23:30:00",98.00,68.60,"Nilesh Dayaram",07737477107,FG22WXZ,VOLVO,"XC60 R-DESIGN B5 MHEV AWD AUTO",GREY,1,,,,,,

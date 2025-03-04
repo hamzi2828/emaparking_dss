@@ -1,0 +1,5 @@
+Reference,Order Price,Drop Off Date/Time,Return Date/Time,Car Reg,Status,Order Date,Departure Flight Number,Departure Terminal,Return Flight Number,Return Terminal,Make,Model,Car Colour,Contact Number,No of Passengers,Third Party Reference,Customer Full Name,Transaction Currency,Product Native Currency,Product Native Price,Purchase Model,Deposit Amount,Car Park Balance
+SPS-1-6313413,58.00,2024/03/17 08:45:00,2024/03/21 21:00:00,FP20UFB,ACTIVE,2024/03/16 09:17:45,T3249,Main,T3248,Main,HYUNDAI,Tucson,RED,07891281979,3,,Isabel Kayode,GBP,GBP,58.00,FullPrice,0.00,0.00
+SPS-1-6313839,67.00,2024/03/31 16:00:00,2024/04/07 23:55:00,C5ERJ,ACTIVE,2024/03/16 13:00:45,FR1073,Main,FR1074,Main,LandRover,Discovery,Grey,7818007286,5,,Serju Patel,GBP,GBP,67.00,FullPrice,0.00,0.00
+SPS-1-6313841,67.00,2024/03/31 16:00:00,2024/04/07 23:55:00,BP18HYA,ACTIVE,2024/03/16 13:00:48,FR1073,Main,FR1074,Main,BMW,X2,Orange,7818007286,5,,Serju Patel,GBP,GBP,67.00,FullPrice,0.00,0.00
+SPS-1-6314835,58.00,2024/03/18 06:00:00,2024/03/22 12:00:00,LM65AZD,ACTIVE,2024/03/16 21:44:05,FR916,Main,FR917,Main,FIAT,500,BLUE,07511899990,2,,Katarzyna Antczak,GBP,GBP,58.00,FullPrice,0.00,0.00

@@ -1,0 +1,3 @@
+Reference,Order Price,Drop Off Date/Time,Return Date/Time,Car Reg,Status,Order Date,Departure Flight Number,Departure Terminal,Return Flight Number,Return Terminal,Make,Model,Car Colour,Contact Number,No of Passengers,Third Party Reference,Customer Full Name,Transaction Currency,Product Native Currency,Product Native Price,Purchase Model,Deposit Amount,Car Park Balance
+SPS-1-6431983,58.00,2024/05/02 06:00:00,2024/05/05 12:30:00,VO56UOX,ACTIVE,2024/04/29 16:40:48,fr1724,Main,fr1725,Main,VOLKSWAGEN,Polo,SILVER,07712828943,1,,Aidan Huntley,GBP,GBP,58.00,FullPrice,0.00,0.00
+SPS-1-6431989,55.00,2024/05/01 15:00:00,2024/05/03 22:15:00,BJ12ZYD,ACTIVE,2024/04/29 16:42:25,Fr537,Main,Fr538,Main,NISSAN,Qashqai,WHITE,07549896642,3,,Dylan Garfoot,GBP,GBP,55.00,FullPrice,0.00,0.00

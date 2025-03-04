@@ -1,0 +1,2 @@
+ProductCode,Refno,Airport,BookingDate,BookingTime,DepartureDate,DepartureTime,ReturnDate,ReturnTime,DepartureTerminal,ReturnTerminal,TotalDays,Title,FirstName,LastName,Telephone,BookingPrice,DeptFlight,ReturnFlight,CarMake,CarModel,CarColor,CarRegistration,BookingStatus
+FPP647,TP-23053113158,"East Midlands ",2023-05-31,19:29:02,2023-06-03,04:15:00,2023-06-10,18:30:00,Main,Main,8,Mr,"William ",Kinning,07738348338,94.00,TBA,Fr3152,Volvu,Xc40,Black,Ys70amk,Amend

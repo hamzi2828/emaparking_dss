@@ -1,0 +1,3 @@
+Reference,Order Price,Drop Off Date/Time,Return Date/Time,Car Reg,Status,Order Date,Departure Flight Number,Departure Terminal,Return Flight Number,Return Terminal,Make,Model,Car Colour,Contact Number,No of Passengers,Third Party Reference,Customer Full Name,Transaction Currency,Product Native Currency,Product Native Price,Purchase Model,Deposit Amount,Car Park Balance
+SPS-1-6343981,61.00,2024/03/29 04:00:00,2024/04/01 16:00:00,LV70ZCA,ACTIVE,2024/03/28 13:36:35,LS685,Main,LS686,Main,SEAT,Ateca,GREY,07482443335,4,,Lauren West,GBP,GBP,61.00,FullPrice,0.00,0.00
+SPS-1-6345338,73.00,2024/03/31 10:00:00,2024/04/07 17:30:00,FL61LNX,ACTIVE,2024/03/28 22:17:51,FR916,Main,FR917,Main,Vauxhall,Insignia,Black,07453267102,4,,Maciej Gajda,GBP,GBP,73.00,FullPrice,0.00,0.00

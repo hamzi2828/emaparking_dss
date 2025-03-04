@@ -1,0 +1,2 @@
+status,booked_at,booking_reference,source,product_code,product_name,airport_code,arrival_date,departure_date,price,supplier_cost,name,contact_number,car_registration,car_manufacture,car_model,car_colour,passengers,out_flight,return_flight,out_terminal,return_terminal,flight_departure_time,flight_return_time
+new,"2023-07-27 19:55:45",TTQXZE4E,"Trusted Travel",EMAMG,"Midlands Airport Meet and Greet",EMA,"2023-08-07 12:30:00","2023-08-18 01:00:00",117.00,81.90,"Ryan Webster",07718152960,"GD07 LJU",PEUGEOT,"207 GT HDI 110",RED,1,,,,,,

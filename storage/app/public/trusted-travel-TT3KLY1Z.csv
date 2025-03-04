@@ -1,0 +1,2 @@
+status,booked_at,booking_reference,source,product_code,product_name,airport_code,arrival_date,departure_date,price,supplier_cost,name,contact_number,car_registration,car_manufacture,car_model,car_colour,passengers,out_flight,return_flight,out_terminal,return_terminal,flight_departure_time,flight_return_time
+new,"2023-07-15 23:27:21",TT3KLY1Z,"Trusted Travel",EMAMGNF,"Midlands Airport Meet and Greet - Non Flex",EMA,"2024-01-04 07:00:00","2024-02-22 19:30:00",238.00,166.60,"David Vernon",07831520099,S222DNV,Audi,A6,Gray,1,,,,,,

@@ -1,0 +1,2 @@
+status,booked_at,booking_reference,source,product_code,product_name,airport_code,arrival_date,departure_date,price,supplier_cost,name,contact_number,car_registration,car_manufacture,car_model,car_colour,passengers,out_flight,return_flight,out_terminal,return_terminal,flight_departure_time,flight_return_time
+new,"2023-05-30 21:05:13",TTDY8JLL,"Trusted Travel",EMAMGNF,"Midlands Airport Meet and Greet - Non Flex",EMA,"2023-06-01 16:30:00","2023-06-04 23:30:00",75.00,52.50,"Lucy Hornby",07817117614,"KN18 ZBE",MERCEDES-BENZ,"A 180 SPORT EDITION AUTO",BLACK,1,,,,,,

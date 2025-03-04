@@ -1,0 +1,3 @@
+Reference,Order Price,Drop Off Date/Time,Return Date/Time,Car Reg,Status,Order Date,Departure Flight Number,Departure Terminal,Return Flight Number,Return Terminal,Make,Model,Car Colour,Contact Number,No of Passengers,Third Party Reference,Customer Full Name,Transaction Currency,Product Native Currency,Product Native Price,Purchase Model,Deposit Amount,Car Park Balance
+SPS-1-6531874,90.00,2024/06/09 04:30:00,2024/06/16 10:30:00,RX19NKJ,ACTIVE,2024/06/08 12:11:37,FR1662,Main,FR1663,Main,BMW,3Series,WHITE,07833562926,4,,Charlie Slater,GBP,GBP,90.00,FullPrice,0.00,0.00
+SPS-1-6531894,72.00,2024/07/25 10:30:00,2024/08/01 23:55:00,FG09KWA,ACTIVE,2024/06/08 12:23:25,TOM7422,Main,TOM7423,Main,SKODA,Octavia,SILVER,07581074997,2,,Russell Cooper,GBP,GBP,72.00,FullPrice,0.00,0.00

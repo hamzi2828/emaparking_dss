@@ -1,0 +1,2 @@
+status,booked_at,booking_reference,source,product_code,product_name,airport_code,arrival_date,departure_date,price,supplier_cost,name,contact_number,car_registration,car_manufacture,car_model,car_colour,passengers,out_flight,return_flight,out_terminal,return_terminal,flight_departure_time,flight_return_time
+new,"2023-07-25 15:33:56",TT3KL70Z,"Trusted Travel",EMAMGNF,"Midlands Airport Meet and Greet - Non Flex",EMA,"2023-07-26 15:30:00","2023-07-30 00:30:00",75.00,52.50,"Thomas Marshall",07725465762,"SE57 FGM",VAUXHALL,"ASTRA SRI CDTI 150",SILVER,1,,,,,,

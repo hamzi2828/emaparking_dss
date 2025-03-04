@@ -1,0 +1,3 @@
+Reference,Order Price,Drop Off Date/Time,Return Date/Time,Car Reg,Status,Order Date,Departure Flight Number,Departure Terminal,Return Flight Number,Return Terminal,Make,Model,Car Colour,Contact Number,No of Passengers,Third Party Reference,Customer Full Name,Transaction Currency,Product Native Currency,Product Native Price,Purchase Model,Deposit Amount,Car Park Balance
+SPS-1-6473012,80.00,2024/05/27 12:00:00,2024/06/04 03:00:00,YL17CWZ,ACTIVE,2024/05/15 21:25:40,LS657,Main,Ls658,Main,SEAT,Ateca,GREY,07809146599,4,,Krystian Morus,GBP,GBP,80.00,FullPrice,0.00,0.00
+SPS-1-6473015,80.00,2024/06/17 12:00:00,2024/06/25 02:00:00,DL68WMT,ACTIVE,2024/05/15 21:25:54,Tom256,Main,Tom257,Main,VAUXHALL,GrandlandX,GREY,07951823979,3,,Josh Griffiths,GBP,GBP,80.00,FullPrice,0.00,0.00

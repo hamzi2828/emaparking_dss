@@ -1,0 +1,2 @@
+status,booked_at,booking_reference,source,product_code,product_name,airport_code,arrival_date,departure_date,price,supplier_cost,name,contact_number,car_registration,car_manufacture,car_model,car_colour,passengers,out_flight,return_flight,out_terminal,return_terminal,flight_departure_time,flight_return_time
+new,"2023-05-19 10:25:55",TTV9Z4NL,"Trusted Travel",EMAMGNF,"Midlands Airport Meet and Greet - Non Flex",EMA,"2023-06-12 12:00:00","2023-06-16 12:00:00",80.00,56.00,"Russell  Riley ",07586928485,"NX13OUC ","Peugeot ",308,"Blue ",1,,,,,,

@@ -1,0 +1,2 @@
+status,booked_at,booking_reference,source,product_code,product_name,airport_code,arrival_date,departure_date,price,supplier_cost,name,contact_number,car_registration,car_manufacture,car_model,car_colour,passengers,out_flight,return_flight,out_terminal,return_terminal,flight_departure_time,flight_return_time
+new,"2023-08-02 17:25:47",TTXMR791,"Trusted Travel",EMAMGTT,"Trusted Meet and Greet",EMA,"2023-09-16 11:30:00","2023-09-23 23:00:00",93.00,65.10,"Paula Taylor",07914353712,FN19USY,HYUNDAI,"TUCSON SE NAV GDI 2WD",BLACK,1,,,,,,

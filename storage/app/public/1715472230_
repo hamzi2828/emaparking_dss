@@ -1,0 +1,64 @@
+Authentication-Results: relay2.stackmail.com;
+	iprev=fail smtp.remote-ip=10.4.13.36
+Received: from [10.4.13.36] (helo=smtp2.lhr.stackcp.net)
+	by relay2.stackmail.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.96)
+	(envelope-from <bookings@emaparking.co.uk>)
+	id 1s5wgu-0005yG-21
+	for booking@emaparking.co.uk;
+	Sun, 12 May 2024 01:03:48 +0100
+Received: from shared-external-lhr1.stackcp.com ([45.8.227.175] helo=www.stackmail.com)
+	by smtp2.lhr.stackcp.net with esmtpa (Exim 4.96)
+	(envelope-from <bookings@emaparking.co.uk>)
+	id 1s5wgu-00006O-1T
+	for booking@emaparking.co.uk;
+	Sun, 12 May 2024 01:03:48 +0100
+MIME-Version: 1.0
+Date: Sun, 12 May 2024 01:03:48 +0100
+From: bookings@emaparking.co.uk
+To: Booking <booking@emaparking.co.uk>
+Subject: Fwd: APH M&G Bookings
+In-Reply-To: <cef3e549f5fb6eebbd9e5f472670d56c@emaparking.co.uk>
+References: <20240511124103.787DAE0085@extras101>
+ <cef3e549f5fb6eebbd9e5f472670d56c@emaparking.co.uk>
+Message-ID: <b4c0fd3f6046edfc9101ce1f65a87fc3@emaparking.co.uk>
+X-Sender: bookings@emaparking.co.uk
+Content-Type: multipart/mixed;
+ boundary="=_36ddc9d9cfc7cf1eae67525c12f0e9fb"
+X-Authenticated-Sender: bookings@emaparking.co.uk
+X-Scan-Signature: 6103fab4856177f988e23c3c1462df05
+
+--=_36ddc9d9cfc7cf1eae67525c12f0e9fb
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset=US-ASCII;
+ format=flowed
+
+
+
+-------- Original Message --------
+Subject: Fwd: APH M&G Bookings
+Date: 2024-05-11 16:10
+ From: aph@emaparking.co.uk
+To: Bookings <bookings@emaparking.co.uk>
+
+-------- Original Message --------
+Subject: APH M&G Bookings
+Date: 2024-05-11 13:40
+ From: "APH Reservations"<admin@aph.com>
+To: ""<aph@emaparking.co.uk>
+--=_36ddc9d9cfc7cf1eae67525c12f0e9fb
+Content-Transfer-Encoding: base64
+Content-Type: text/plain; charset=us-ascii;
+ name=APH110524.csv
+Content-Disposition: attachment;
+ filename=APH110524.csv;
+ size=364
+
+IjEwMyIsIk5FVyAgICAiLCJINVI3NCAgIiwiICAgICAgICAgICAgICAgICAgICIsIjExLzA3LzI0
+IiwiTXIgICIsIkoiLCJFVDE1RldSICAgIiwiSFlVTkRBSSAgICIsIkdSRVkgICAgICAiLCIgMyIs
+IjEwOjAwIiwiTFM2NTMgICIsIjAwMDAwNTUuMzAiLCIgICAgICAgIiwiMTkvMDcvMjQiLCIwMTow
+MCIsIkxTNjU0ICAiLCIgIiwiICIsIiAgICAiLCJSZWRmZXJuICAgICAgICAgICAgICIsIjExLzA1
+LzI0IiwiMDA6MDAiLCIgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAiLCIgIiwiTVQiLCIiLCIiLCIgICAgIiwiICAgICIsIjA3MzY1MjY0
+NDQ3ICIsIiAgICAgICAgICAgICINCg==
+--=_36ddc9d9cfc7cf1eae67525c12f0e9fb--

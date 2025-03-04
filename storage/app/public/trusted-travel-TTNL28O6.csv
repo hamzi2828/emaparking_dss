@@ -1,0 +1,2 @@
+status,booked_at,booking_reference,source,product_code,product_name,airport_code,arrival_date,departure_date,price,supplier_cost,name,contact_number,car_registration,car_manufacture,car_model,car_colour,passengers,out_flight,return_flight,out_terminal,return_terminal,flight_departure_time,flight_return_time
+new,"2023-07-30 21:03:29",TTNL28O6,"Trusted Travel",EMAMGTT,"Trusted Meet and Greet",EMA,"2023-08-01 11:30:00","2023-08-06 07:30:00",103.00,72.10,"Mark Hill",07795664501,"RK18 PGE",MERCEDES-BENZ,"CLA 220 SPORT D AUTO",GREY,1,,,,,,

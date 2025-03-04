@@ -1,0 +1,3 @@
+Reference,Order Price,Drop Off Date/Time,Return Date/Time,Car Reg,Status,Order Date,Departure Flight Number,Departure Terminal,Return Flight Number,Return Terminal,Make,Model,Car Colour,Contact Number,No of Passengers,Third Party Reference,Customer Full Name,Transaction Currency,Product Native Currency,Product Native Price,Purchase Model,Deposit Amount,Car Park Balance
+SPS-1-6472600,55.00,2024/05/19 09:00:00,2024/05/21 18:30:00,LJ61LFA,ACTIVE,2024/05/15 19:30:33,FR1638,Main,FR1639,Main,VAUXHALL,Astra,BLACK,07515170555,1,,Leigh Markham,GBP,GBP,55.00,FullPrice,0.00,0.00
+SPS-1-6472623,65.00,2024/05/17 05:00:00,2024/05/21 23:00:00,FB14JOE,ACTIVE,2024/05/15 19:37:57,Fr9388,Main,FR9391,Main,FORD,Fiesta,WHITE,07477868826,2,,Joe Cartwright,GBP,GBP,65.00,FullPrice,0.00,0.00

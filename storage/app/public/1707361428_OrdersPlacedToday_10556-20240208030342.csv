@@ -1,0 +1,6 @@
+Reference,Order Price,Drop Off Date/Time,Return Date/Time,Car Reg,Status,Order Date,Departure Flight Number,Departure Terminal,Return Flight Number,Return Terminal,Make,Model,Car Colour,Contact Number,No of Passengers,Third Party Reference,Customer Full Name,Transaction Currency,Product Native Currency,Product Native Price,Purchase Model,Deposit Amount,Car Park Balance
+SPS-1-6218473,50.00,2024/02/17 03:00:00,2024/02/21 17:00:00,FX14XPD,ACTIVE,2024/02/07 11:38:18,FR3152,Main,FR3153,Main,VAUXHALL,Astra,WHITE,07889825556,1,,Peter Morris,GBP,GBP,50.00,FullPrice,0.00,0.00
+SPS-1-6218719,54.00,2024/02/08 12:00:00,2024/02/13 01:00:00,HK14KXE,ACTIVE,2024/02/07 13:23:28,FR3172,Main,FR3173,Main,BMW,7Series,BLACK,07462110542,4,,Liga Reinholde,GBP,GBP,54.00,FullPrice,0.00,0.00
+SPS-1-6218795,46.00,2024/02/08 04:30:00,2024/02/10 09:30:00,HK64RVZ,ACTIVE,2024/02/07 13:58:13,FR535,Main,FR534,Main,Mini,Paceman,Grey,07379416215,1,,Camilla Lee,GBP,GBP,46.00,FullPrice,0.00,0.00
+SPS-1-6219561,57.00,2024/02/12 03:30:00,2024/02/18 01:00:00,NA13SZL,ACTIVE,2024/02/07 19:25:38,FR3701,Main,FR3702,Main,NISSAN,Qashqai,BLACK,07867485742,2,,Jamie Branagan,GBP,GBP,57.00,FullPrice,0.00,0.00
+SPS-1-6220186,46.00,2024/02/09 05:00:00,2024/02/11 15:00:00,NA08ZXX,ACTIVE,2024/02/07 23:02:13,,Main,LS641,Main,MERCEDES,CClass,BLACK,447956412780,2,,Tendayi Mudakureva,GBP,GBP,46.00,FullPrice,0.00,0.00

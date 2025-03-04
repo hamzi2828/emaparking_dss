@@ -1,0 +1,2 @@
+status,booked_at,booking_reference,source,product_code,product_name,airport_code,arrival_date,departure_date,price,supplier_cost,name,contact_number,car_registration,car_manufacture,car_model,car_colour,passengers,out_flight,return_flight,out_terminal,return_terminal,flight_departure_time,flight_return_time
+new,"2023-07-28 22:29:37",TTE07LMW,"Trusted Travel",EMAMGTT,"Trusted Meet and Greet",EMA,"2023-11-19 18:00:00","2023-11-30 20:00:00",89.00,62.30,"Maria Caldicott",07968154028,"YT18 FGG",VOLVO,"XC40 FIRST EDITION T5 AWD AUTO",WHITE,1,,,,,,

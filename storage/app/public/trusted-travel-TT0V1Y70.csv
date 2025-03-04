@@ -1,0 +1,2 @@
+status,booked_at,booking_reference,source,product_code,product_name,airport_code,arrival_date,departure_date,price,supplier_cost,name,contact_number,car_registration,car_manufacture,car_model,car_colour,passengers,out_flight,return_flight,out_terminal,return_terminal,flight_departure_time,flight_return_time
+new,"2023-09-13 12:14:28",TT0V1Y70,"Trusted Travel",EMAMGNF,"Midlands Airport Meet and Greet - Non Flex",EMA,"2023-09-16 06:00:00","2023-09-17 23:30:00",65.00,45.50,"Steven Heaslip",07795385961,"FJ62 DFF",KIA,"SPORTAGE KX-3 SAT NAV CRDI",BLACK,1,,,,,,

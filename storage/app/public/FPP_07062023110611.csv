@@ -1,0 +1,2 @@
+ProductCode,Refno,Airport,BookingDate,BookingTime,DepartureDate,DepartureTime,ReturnDate,ReturnTime,DepartureTerminal,ReturnTerminal,TotalDays,Title,FirstName,LastName,Telephone,BookingPrice,DeptFlight,ReturnFlight,AirportLevyFee,CarMake,CarModel,CarColor,CarRegistration,BookingStatus
+FPP647,TP-23060713229,"East Midlands ",2023-06-07,11:20:59,2023-10-01,05:00:00,2023-10-08,14:30:00,Main,Main,8,Mrs,"Julie ",Thompson,07967139841,85.00,TBA,LS686,0,,,,,Next

@@ -1,0 +1,4 @@
+Reference,Order Price,Drop Off Date/Time,Return Date/Time,Car Reg,Status,Order Date,Departure Flight Number,Departure Terminal,Return Flight Number,Return Terminal,Make,Model,Car Colour,Contact Number,No of Passengers,Third Party Reference,Customer Full Name,Transaction Currency,Product Native Currency,Product Native Price,Purchase Model,Deposit Amount,Car Park Balance
+SPS-1-5707537,90.00,2023/07/31 12:00:00,2023/08/07 06:30:00,MD06NJV,ACTIVE,2023/06/28 10:24:55,TOM612,Main,TOM613,Main,VAUXHALL,ZAFIRA,SILVER,07881940417,6,,Diana Harper,GBP,GBP,90.00,FullPrice,0.00,0.00
+SPS-1-5708817,95.00,2023/07/10 10:30:00,2023/07/18 03:30:00,EA17HTK,ACTIVE,2023/06/28 19:53:52,Tom514,Main,Tom515,Main,Bmw,3SERIES,GREY,07943381402,2,,Sonny Carrier,GBP,GBP,95.00,FullPrice,0.00,0.00
+L4P-1-5708407,75.00,2023/07/02 11:30:00,2023/07/06 12:00:00,YK60VKA,ACTIVE,2023/06/28 17:11:39,FR1632,Main,FR1633,Main,Mazda,2,White,+447518605170,2,,Sarah Furnivall,GBP,GBP,75.00,FullPrice,0.00,0.00

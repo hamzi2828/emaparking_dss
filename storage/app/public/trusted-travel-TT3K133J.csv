@@ -1,0 +1,2 @@
+status,booked_at,booking_reference,source,product_code,product_name,airport_code,arrival_date,departure_date,price,supplier_cost,name,contact_number,car_registration,car_manufacture,car_model,car_colour,passengers,out_flight,return_flight,out_terminal,return_terminal,flight_departure_time,flight_return_time
+new,"2023-06-18 20:04:51",TT3K133J,"Trusted Travel",EMAMGTT,"Trusted Meet and Greet",EMA,"2023-06-19 10:00:00","2023-06-26 05:30:00",98.00,68.60,"Rachel Furness-Smith",07793826124,"VK12 UBT",AUDI,"A3 SPORT 138 TDI",GREY,1,,,,,,

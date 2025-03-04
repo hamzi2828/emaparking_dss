@@ -1,0 +1,3 @@
+booking_reference,gross_amount,entry_datetime,exit_datetime,license_plate,booking_status_name,booking_datetime,flight_number,departure_terminal,return_flight_number,return_terminal,vehicle_make,vehicle_model,vehicle_colour,contact_number,passenger_count,third_party_reference,customer_name,transaction_currency,product_native_currency,product_native_price,purchase_model,deposit_amount,car_park_balance,product_name,booking_item_reference
+L4PUK-142918,50.99,2024-10-30 07:30:00,2024-10-30 19:30:00,KM55JTM,Cancelled,2024-10-05 08:24:40,,,,,,,,,,,JOHN MERRY,GBP,GBP,,,,,EMA Midlands Parking,PARKING-132090
+SPSAPI-142945,55.24,2024-10-10 04:45:00,2024-10-13 12:45:00,LP73MPZ,Confirmed,2024-10-05 09:24:52,,,,,,,,,,,JAMIE WALKER,GBP,GBP,,,,,EMA Midlands Parking NF,PARKING-132117

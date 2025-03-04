@@ -1,0 +1,2 @@
+status,booked_at,booking_reference,source,product_code,product_name,airport_code,arrival_date,departure_date,price,supplier_cost,name,contact_number,car_registration,car_manufacture,car_model,car_colour,passengers,out_flight,return_flight,out_terminal,return_terminal,flight_departure_time,flight_return_time
+new,"2023-08-19 08:32:44",TT1VE90O,"Trusted Travel",EMAMG,"Midlands Airport Meet and Greet",EMA,"2023-08-23 18:30:00","2023-08-30 20:30:00",132.00,92.40,"Louise  Patterson",07379886082,"BG65VKJ ",RENAULT,"CLIO DYNAMIQUE NAV 16V",RED,1,,,,,,

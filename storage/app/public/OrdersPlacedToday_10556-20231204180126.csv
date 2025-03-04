@@ -1,0 +1,2 @@
+Reference,Order Price,Drop Off Date/Time,Return Date/Time,Car Reg,Status,Order Date,Departure Flight Number,Departure Terminal,Return Flight Number,Return Terminal,Make,Model,Car Colour,Contact Number,No of Passengers,Third Party Reference,Customer Full Name,Transaction Currency,Product Native Currency,Product Native Price,Purchase Model,Deposit Amount,Car Park Balance
+SPS-1-6083982,87.00,2023/12/20 10:45:00,2024/01/05 20:30:00,BL57LDF,ACTIVE,2023/12/04 17:03:08,FR1638,Main,FR1639,Main,MAZDA,Mazda5,SILVER,07783839199,1,,Fabian Kula,GBP,GBP,87.00,FullPrice,0.00,0.00

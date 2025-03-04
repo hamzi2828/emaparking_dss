@@ -1,0 +1,2 @@
+status,booked_at,booking_reference,source,product_code,product_name,airport_code,arrival_date,departure_date,price,supplier_cost,name,contact_number,car_registration,car_manufacture,car_model,car_colour,passengers,out_flight,return_flight,out_terminal,return_terminal,flight_departure_time,flight_return_time
+new,"2023-08-17 23:10:43",TTY721ER,"East Midlands Airport Parking",EMAMGTT,"Trusted Meet and Greet",EMA,"2023-10-04 13:30:00","2023-10-18 20:00:00",118.00,82.60,"Amanda Egginton",07718272761,FL69BUE,HYUNDAI,"TUCSON SE NAV T-GDI 2WD S-A",BLUE,1,,,,,,

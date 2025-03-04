@@ -1,0 +1,2 @@
+ProductCode,Refno,Airport,BookingDate,BookingTime,DepartureDate,DepartureTime,ReturnDate,ReturnTime,DepartureTerminal,ReturnTerminal,TotalDays,Title,FirstName,LastName,Telephone,BookingPrice,DeptFlight,ReturnFlight,AirportLevyFee,CarMake,CarModel,CarColor,CarRegistration,BookingStatus
+FPP647,TP-23053113154,"East Midlands ",2023-05-31,13:01:02,2023-06-10,15:15:00,2023-06-17,23:00:00,Main,Main,8,Mrs,"Susan ","Phillips ",07740406569,94.00,TBA,Fr9284,0,Audi,"This A class",Grey,"M27 SUS ",Next

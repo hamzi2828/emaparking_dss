@@ -1,0 +1,5 @@
+Reference,Order Price,Drop Off Date/Time,Return Date/Time,Car Reg,Status,Order Date,Departure Flight Number,Departure Terminal,Return Flight Number,Return Terminal,Make,Model,Car Colour,Contact Number,No of Passengers,Third Party Reference,Customer Full Name,Transaction Currency,Product Native Currency,Product Native Price,Purchase Model,Deposit Amount,Car Park Balance
+SPS-1-6163765,48.00,2024/01/19 15:00:00,2024/01/22 23:00:00,DF2FTY,ACTIVE,2024/01/15 15:05:31,Fr4468,Main,Fr4459,Main,Audi,A4,Black,07426100759,2,,Sara Philips,GBP,GBP,48.00,FullPrice,0.00,0.00
+SPS-1-6163766,48.00,2024/01/19 15:00:00,2024/01/22 23:00:00,DF2FTY,ACTIVE,2024/01/15 15:05:32,Fr4468,Main,Fr4459,Main,Audi,A4,Black,07426100759,2,,Sara Philips,GBP,GBP,48.00,FullPrice,0.00,0.00
+SPS-1-6163774,48.00,2024/01/19 15:00:00,2024/01/22 23:00:00,DF2FTY,ACTIVE,2024/01/15 15:06:12,Fr4468,Main,Fr4459,Main,Audi,A4,Black,07426100759,2,,Sara Philips,GBP,GBP,48.00,FullPrice,0.00,0.00
+SPS-1-6165050,60.00,2024/01/16 12:00:00,2024/01/23 23:15:00,MT65XEX,ACTIVE,2024/01/15 22:10:54,FR3701,Main,FR3702,Main,Vauxhall,Corsa,Red,07765004109,2,,Lesley Tindall,GBP,GBP,60.00,FullPrice,0.00,0.00

@@ -1,0 +1,3 @@
+Reference,Order Price,Drop Off Date/Time,Return Date/Time,Car Reg,Status,Order Date,Departure Flight Number,Departure Terminal,Return Flight Number,Return Terminal,Make,Model,Car Colour,Contact Number,No of Passengers,Third Party Reference,Customer Full Name,Transaction Currency,Product Native Currency,Product Native Price,Purchase Model,Deposit Amount,Car Park Balance
+SPS-1-6497214,95.00,2024/06/19 13:30:00,2024/06/27 02:00:00,AE64NZH,ACTIVE,2024/05/26 09:59:13,Ls621,Main,Ls622,Main,FORD,TourneoCustom,BLACK,07756293333,5,,Tracey Lowe,GBP,GBP,95.00,FullPrice,0.00,0.00
+SPS-1-6498656,80.00,2024/05/30 04:15:00,2024/06/04 12:00:00,YC11CFF,ACTIVE,2024/05/26 19:29:40,FR9387,Main,FR9388,Main,AUDI,A5,GREY,07474880127,2,,Piotr Wolny,GBP,GBP,80.00,FullPrice,0.00,0.00

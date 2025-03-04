@@ -1,0 +1,3 @@
+Reference,Order Price,Drop Off Date/Time,Return Date/Time,Car Reg,Status,Order Date,Departure Flight Number,Departure Terminal,Return Flight Number,Return Terminal,Make,Model,Car Colour,Contact Number,No of Passengers,Third Party Reference,Customer Full Name,Transaction Currency,Product Native Currency,Product Native Price,Purchase Model,Deposit Amount,Car Park Balance
+SPS-1-6479020,58.00,2024/05/24 03:00:00,2024/05/27 16:00:00,YE17WDA,ACTIVE,2024/05/18 19:13:12,TOM7542,Main,TOM7139,Main,FORD,Focus,BLACK,07889240059,2,,Claireelizabeth Brook,GBP,GBP,58.00,FullPrice,0.00,0.00
+SPS-1-6479055,65.00,2024/05/30 06:00:00,2024/06/03 00:30:00,FD66XOK,ACTIVE,2024/05/18 19:36:26,Fr3854,Main,Fr3853,Main,BMW,X1,GREY,07958085710,1,,Claire Faulkner,GBP,GBP,65.00,FullPrice,0.00,0.00

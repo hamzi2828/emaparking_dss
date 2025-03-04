@@ -1,0 +1,2 @@
+status,booked_at,booking_reference,source,product_code,product_name,airport_code,arrival_date,departure_date,price,supplier_cost,name,contact_number,car_registration,car_manufacture,car_model,car_colour,passengers,out_flight,return_flight,out_terminal,return_terminal,flight_departure_time,flight_return_time
+new,"2023-08-19 12:01:34",TT9W9XOE,"Trusted Travel",EMAMGNF,"Midlands Airport Meet and Greet - Non Flex",EMA,"2023-08-20 12:00:00","2023-08-30 17:00:00",105.00,73.50,"Marcus Robe",07582000002,"DG19 AWV",TOYOTA,"HILUX INVINCIBLE D-4D 4WD DCB",SILVER,1,,,,,,

@@ -1,0 +1,59 @@
+Authentication-Results: relay2.stackmail.com;
+	iprev=fail smtp.remote-ip=10.4.13.36
+Received: from [10.4.13.36] (helo=smtp2.lhr.stackcp.net)
+	by relay2.stackmail.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.96)
+	(envelope-from <bookings@emaparking.co.uk>)
+	id 1rtAXN-0005kJ-2K
+	for booking@emaparking.co.uk;
+	Sat, 06 Apr 2024 19:13:09 +0100
+Received: from shared-external-lhr1.stackcp.com ([45.8.227.175] helo=www.stackmail.com)
+	by smtp2.lhr.stackcp.net with esmtpa (Exim 4.96)
+	(envelope-from <bookings@emaparking.co.uk>)
+	id 1rtAXN-0000c1-1i
+	for booking@emaparking.co.uk;
+	Sat, 06 Apr 2024 19:13:09 +0100
+MIME-Version: 1.0
+Date: Sat, 06 Apr 2024 19:13:09 +0100
+From: bookings@emaparking.co.uk
+To: Booking <booking@emaparking.co.uk>
+Subject: Fwd: APH M&G Bookings
+In-Reply-To: <20240406164106.569E8E007F@extras101>
+References: <20240406164106.569E8E007F@extras101>
+Message-ID: <6e65ece14472b33e1f7d990434d738dc@emaparking.co.uk>
+X-Sender: bookings@emaparking.co.uk
+Content-Type: multipart/mixed;
+ boundary="=_c7e4837f62bdef3914f8785466146958"
+X-Authenticated-Sender: bookings@emaparking.co.uk
+X-Scan-Signature: cfdc393270692dd0c2b9191d65472aa0
+
+--=_c7e4837f62bdef3914f8785466146958
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset=US-ASCII;
+ format=flowed
+
+
+
+-------- Original Message --------
+Subject: APH M&G Bookings
+Date: 2024-04-06 17:40
+ From: "APH Reservations"<admin@aph.com>
+To: ""<aph@emaparking.co.uk>
+
+
+--=_c7e4837f62bdef3914f8785466146958
+Content-Transfer-Encoding: base64
+Content-Type: text/plain; charset=us-ascii;
+ name=APH060424.csv
+Content-Disposition: attachment;
+ filename=APH060424.csv;
+ size=364
+
+IjEwMyIsIk5FVyAgICAiLCJIMUs1SCAgIiwiICAgICAgICAgICAgICAgICAgICIsIjE2LzA2LzI0
+IiwiTXJzICIsIkwiLCJETDE5VVBKICAgIiwiVkFVWEhBTEwgICIsIldISVRFICAgICAiLCIgMSIs
+IjA0OjMwIiwiICAgICAgICIsIjAwMDAwNjMuMDAiLCIgICAgICAgIiwiMjMvMDYvMjQiLCIxMzoz
+MCIsIiAgICAgICAiLCIgIiwiICIsIkVNQU0iLCJPc2JvdXJuZSAgICAgICAgICAgICIsIjA2LzA0
+LzI0IiwiMDA6MDAiLCIgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAiLCIgIiwiQ0MiLCIiLCIiLCIgICAgIiwiICAgICIsIjA3ODY3NDMz
+Mzg1ICIsIiAgICAgICAgICAgICINCg==
+--=_c7e4837f62bdef3914f8785466146958--

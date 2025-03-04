@@ -1,0 +1,6 @@
+Reference,Order Price,Drop Off Date/Time,Return Date/Time,Car Reg,Status,Order Date,Departure Flight Number,Departure Terminal,Return Flight Number,Return Terminal,Make,Model,Car Colour,Contact Number,No of Passengers,Third Party Reference,Customer Full Name,Transaction Currency,Product Native Currency,Product Native Price,Purchase Model,Deposit Amount,Car Park Balance
+SPS-1-6112731,59.00,2023/12/27 07:00:00,2023/12/29 21:00:00,ND59FYZ,ACTIVE,2023/12/21 11:17:39,LS667,Main,LS668,Main,MAZDA,Mazda6,SILVER,07947039173,2,,Chris Ward,GBP,GBP,59.00,FullPrice,0.00,0.00
+SPS-1-6113453,115.00,2023/12/22 12:00:00,2024/01/05 12:00:00,YR13OSP,ACTIVE,2023/12/21 19:18:23,,Main,Dh4vxc,Main,BMW,5Series,WHITE,07761364260,4,,Przemyslaw Grabowski,GBP,GBP,115.00,FullPrice,0.00,0.00
+SPS-1-6113695,90.00,2023/12/28 13:30:00,2024/01/05 13:00:00,LG05FRP,ACTIVE,2023/12/21 21:42:07,Fr916,Main,Fr917,Main,MERCEDES,EClass,BLUE,07955312451,3,,Jaroslaw Szwarc,GBP,GBP,90.00,FullPrice,0.00,0.00
+SPS-1-6113802,90.00,2023/12/23 12:00:00,2023/12/31 00:30:00,OY65EBD,ACTIVE,2023/12/21 22:57:28,FR3701,Main,FR3702,Main,JAGUAR,XE,BLUE,07842348724,4,,Liam Chapman,GBP,GBP,90.00,FullPrice,0.00,0.00
+L4P-1-6113783,85.00,2023/12/22 14:00:00,2023/12/29 22:30:00,WV14NSO,ACTIVE,2023/12/21 22:43:40,,Main,,Main,,,,+447938001016,1,,Dace Kirse,GBP,GBP,85.00,FullPrice,0.00,0.00

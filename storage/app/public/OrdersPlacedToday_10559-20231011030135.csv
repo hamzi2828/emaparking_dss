@@ -1,0 +1,3 @@
+Reference,Order Price,Drop Off Date/Time,Return Date/Time,Car Reg,Status,Order Date,Departure Flight Number,Departure Terminal,Return Flight Number,Return Terminal,Make,Model,Car Colour,Contact Number,No of Passengers,Third Party Reference,Customer Full Name,Transaction Currency,Product Native Currency,Product Native Price,Purchase Model,Deposit Amount,Car Park Balance
+SPS-1-5954920,66.00,2023/11/01 05:30:00,2023/11/08 19:45:00,Y3NEV,ACTIVE,2023/10/10 18:08:44,LS661,Main,LS662,Main,VOLKSWAGEN,Passat,WHITE,07580749316,4,,Ben Decerall,GBP,GBP,66.00,FullPrice,0.00,0.00
+SPS-1-5954921,66.00,2023/11/01 05:30:00,2023/11/08 19:45:00,BL11EFO,ACTIVE,2023/10/10 18:08:47,LS661,Main,LS662,Main,CITROEN,Dispatch,GREY,07580749316,2,,Ben Decerall,GBP,GBP,66.00,FullPrice,0.00,0.00

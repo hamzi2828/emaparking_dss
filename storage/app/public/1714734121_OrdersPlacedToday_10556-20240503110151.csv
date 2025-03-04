@@ -1,0 +1,4 @@
+Reference,Order Price,Drop Off Date/Time,Return Date/Time,Car Reg,Status,Order Date,Departure Flight Number,Departure Terminal,Return Flight Number,Return Terminal,Make,Model,Car Colour,Contact Number,No of Passengers,Third Party Reference,Customer Full Name,Transaction Currency,Product Native Currency,Product Native Price,Purchase Model,Deposit Amount,Car Park Balance
+SPS-1-6442006,58.00,2024/05/04 10:00:00,2024/05/07 11:00:00,YY12AXN,ACTIVE,2024/05/03 10:14:26,,Main,Igh5rl,Main,MINI,Countryman,GREY,07952204772,2,,Andrew Chapman,GBP,GBP,58.00,FullPrice,0.00,0.00
+SPS-1-6442082,78.00,2024/05/17 04:15:00,2024/05/24 15:30:00,DG70OEH,ACTIVE,2024/05/03 10:45:27,TOM7512,Main,TOM7513,Main,PEUGEOT,3008,WHITE,07803400213,2,,Fiona Riley,GBP,GBP,78.00,FullPrice,0.00,0.00
+L4P-1-6442038,65.00,2024/05/22 15:00:00,2024/05/26 14:00:00,LT16TCY,ACTIVE,2024/05/03 10:27:20,FR9185,Main,FR9084,Main,Mazda,Cx5,Red,+447450665778,2,,Keanne Chrsity,GBP,GBP,65.00,FullPrice,0.00,0.00

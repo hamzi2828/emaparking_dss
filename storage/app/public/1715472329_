@@ -1,0 +1,384 @@
+Authentication-Results: relay1.stackmail.com;
+	iprev=fail smtp.remote-ip=10.4.12.32
+Received: from [10.4.12.32] (helo=smtp1.lhr.stackcp.net)
+	by relay1.stackmail.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.96)
+	(envelope-from <bookings@emaparking.co.uk>)
+	id 1s5wiL-0008Mv-37
+	for booking@emaparking.co.uk;
+	Sun, 12 May 2024 01:05:18 +0100
+Received: from shared-external-lhr1.stackcp.com ([45.8.227.175] helo=www.stackmail.com)
+	by smtp1.lhr.stackcp.net with esmtpa (Exim 4.96)
+	(envelope-from <bookings@emaparking.co.uk>)
+	id 1s5wiM-0007Gn-1E
+	for booking@emaparking.co.uk;
+	Sun, 12 May 2024 01:05:18 +0100
+MIME-Version: 1.0
+Date: Sun, 12 May 2024 01:05:10 +0100
+From: bookings@emaparking.co.uk
+To: Booking <booking@emaparking.co.uk>
+Subject: Fwd: Looking4Parking Confirmation
+In-Reply-To: <cm.0445269577326.l.l.r.a1f817df0fc611efad9a78ad3b821de2@cmail20.com>
+References: <cm.0445269577326.l.l.r.a1f817df0fc611efad9a78ad3b821de2@cmail20.com>
+Message-ID: <2030120b076a25df845e31253ff5efe0@emaparking.co.uk>
+X-Sender: bookings@emaparking.co.uk
+Content-Type: multipart/alternative;
+ boundary="=_ea30232270ea134ec890e0ece38509d2"
+X-Authenticated-Sender: bookings@emaparking.co.uk
+X-Scan-Signature: 344c65bd32303838fd604411adb49040
+
+--=_ea30232270ea134ec890e0ece38509d2
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset=UTF-8;
+ format=flowed
+
+-------- Original Message --------
+
+  		SUBJECT:
+  		Looking4Parking Confirmation
+
+  		DATE:
+  		2024-05-11 19:45
+
+  		FROM:
+  		"Looking4Parking.com" <noreply@looking4parking.com>
+
+  		TO:
+  		"bookings@emaparking.co.uk" <bookings@emaparking.co.uk>
+
+  		Our Reference:
+
+  		L4P-1-6461987
+
+  		Car Park:
+
+  		Midlands Parking - Meet & Greet + Uncovered - Non Flex - East 
+Midlands Airport
+
+  		Location:
+
+  		East Midlands
+
+  		Drop Off Date:
+
+  		17/05/2024 15:00:00
+
+  		Return Date:
+
+  		25/05/2024 02:00:00
+
+  		Outbound Terminal:
+
+  		Main
+
+  		Inbound Terminal:
+
+  		Main
+
+  		Name:
+
+  		Siobain Behan
+
+  		Contact Phone:
+
+  		+447446041544
+
+  		Passenger Number:
+
+  		1
+
+  		Registration:
+
+  		YE18NPX
+
+  		Price:
+
+  		??80.00
+
+  		Add noreply@looking4parking.com to your contacts to ensure receipt of 
+future emails.
+--=_ea30232270ea134ec890e0ece38509d2
+Content-Type: multipart/related;
+ boundary="=_30db091fb09f5c5b1511c931ee8e90d2"
+
+--=_30db091fb09f5c5b1511c931ee8e90d2
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8" /></head><body style=3D'font-size: 10pt; font-family: Verdana,Gen=
+eva,sans-serif'>
+<p><br /></p>
+<div id=3D"signature"></div>
+<p><br /></p>
+<p>-------- Original Message --------</p>
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<th align=3D"right" valign=3D"baseline" nowrap=3D"nowrap">Subject:</th>
+<td>Looking4Parking Confirmation</td>
+</tr>
+<tr>
+<th align=3D"right" valign=3D"baseline" nowrap=3D"nowrap">Date:</th>
+<td>2024-05-11 19:45</td>
+</tr>
+<tr>
+<th align=3D"right" valign=3D"baseline" nowrap=3D"nowrap">From:</th>
+<td>"Looking4Parking.com" &lt;noreply@looking4parking.com&gt;</td>
+</tr>
+<tr>
+<th align=3D"right" valign=3D"baseline" nowrap=3D"nowrap">To:</th>
+<td>"bookings@emaparking.co.uk" &lt;bookings@emaparking.co.uk&gt;</td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
+<div id=3D"forwardbody1">
+<style type=3D"text/css">#forwardbody1 #v1outlook a { padding: 0; }
+       =20
+        #forwardbody1 { width: 100%; background-color: #ffffff; margin: 0; =
+padding: 0; -webkit-font-smoothing: antialiased; font-family: Arial, Helvet=
+ica, sans-serif; }
+        #forwardbody1 table { border-collapse: collapse; }
+        #forwardbody1 .v1contenttable { max-width: 600px !important; displa=
+y: block !important; clear: both !important; padding: 0px !important; }
+        #forwardbody1 .v1content { float: left; }
+        #forwardbody1 div, #forwardbody1 a, #forwardbody1 li, #forwardbody1=
+ td { -webkit-text-size-adjust: none; }
+        #forwardbody1 p { -webkit-text-size-adjust: none; margin-bottom: 0;=
+ margin-top: 0; margin-left: 0; margin-right: 0; margin: 0; padding: 0; }
+       =20
+        @media only screen and (max-width: 480px) {
+            #forwardbody1 .v1hide { display: none !important; }
+            #forwardbody1 table[class=3Dcontenttable] { width: 310px !impor=
+tant; }
+            #forwardbody1 table[class=3D"width320"] { width: 320px !importa=
+nt; }
+            #forwardbody1 table[class=3D"width300"] { width: 300px !importa=
+nt; }
+            #forwardbody1 table[class=3D"width310"] { width: 310px !importa=
+nt; }
+            #forwardbody1 td[class=3D"width300"] { width: 300px !important;=
+ }
+            #forwardbody1 td[class=3D"width290"] { width: 200px !important;=
+ }
+            #forwardbody1 td[class=3D"upsell1"] { width: 10px !important; }
+            #forwardbody1 table[class=3D"width280"] { width: 280px !importa=
+nt; }
+            #forwardbody1 td[class=3D"width280"] { width: 280px !important;=
+ }
+            #forwardbody1 table[class=3D"width265"] { width: 265px !importa=
+nt; }
+            #forwardbody1 table[class=3D"width280"] { width: 280px !importa=
+nt; }
+            #forwardbody1 img[class=3D"width300"] { width: 300px !important=
+; }
+            #forwardbody1 img[class=3D"width280"] { width: 280px !important=
+; }
+            #forwardbody1 img[class=3D"width10"] { width: 10px !important; }
+            #forwardbody1 img[class=3D"mob-logo"] { width: 300px !important=
+; height: auto !important; }
+            #forwardbody1[yahoo] .v1deviceWidth { width: 300px!important; p=
+adding: 0 4px; }
+            #forwardbody1[yahoo] .v1width290 { width: 290px!important; }
+            #forwardbody1[yahoo] .v1center { text-align: center!important; }
+        }</style>
+<div style=3D"font-family: Arial, Helvetica, sans-serif; width: 100%; backg=
+round-color: #ffffff; -webkit-font-smoothing: antialiased; padding: 0; marg=
+in: 0;">
+<table style=3D"border-collapse: collapse;" border=3D"0" width=3D"100%" cel=
+lspacing=3D"0" cellpadding=3D"0" bgcolor=3D"#FFFFFF">
+<tbody>
+<tr>
+<td style=3D"-webkit-text-size-adjust: none;" align=3D"center">
+<table style=3D"border-collapse: collapse;" border=3D"0" width=3D"100%" cel=
+lspacing=3D"0" cellpadding=3D"0" bgcolor=3D"#FFFFFF">
+<tbody>
+<tr>
+<td style=3D"-webkit-text-size-adjust: none;" width=3D"10">&nbsp;</td>
+<td style=3D"font-family: Arial, Helvetica, sans-serif; text-align: left; f=
+ont-size: 12px; -webkit-text-size-adjust: none;"><strong>Our Reference:</st=
+rong></td>
+<td style=3D"-webkit-text-size-adjust: none;" width=3D"10">&nbsp;</td>
+<td style=3D"font-family: Arial, Helvetica, sans-serif; text-align: left; f=
+ont-size: 12px; -webkit-text-size-adjust: none;">L4P-1-6461987</td>
+</tr>
+<tr>
+<td style=3D"-webkit-text-size-adjust: none;" width=3D"10" height=3D"20">&n=
+bsp;</td>
+<td style=3D"-webkit-text-size-adjust: none;" height=3D"20">&nbsp;</td>
+<td style=3D"-webkit-text-size-adjust: none;" width=3D"10" height=3D"20">&n=
+bsp;</td>
+<td style=3D"-webkit-text-size-adjust: none;" height=3D"20">&nbsp;</td>
+</tr>
+<tr>
+<td style=3D"-webkit-text-size-adjust: none;" width=3D"10">&nbsp;</td>
+<td style=3D"font-family: Arial, Helvetica, sans-serif; text-align: left; f=
+ont-size: 12px; -webkit-text-size-adjust: none;"><strong>Car Park:</strong>=
+</td>
+<td style=3D"-webkit-text-size-adjust: none;" width=3D"10">&nbsp;</td>
+<td style=3D"font-family: Arial, Helvetica, sans-serif; text-align: left; f=
+ont-size: 12px; -webkit-text-size-adjust: none;">Midlands Parking - Meet &a=
+mp; Greet + Uncovered - Non Flex - East Midlands Airport</td>
+</tr>
+<tr>
+<td style=3D"-webkit-text-size-adjust: none;" width=3D"10">&nbsp;</td>
+<td style=3D"font-family: Arial, Helvetica, sans-serif; text-align: left; f=
+ont-size: 12px; -webkit-text-size-adjust: none;"><strong>Location:</strong>=
+</td>
+<td style=3D"-webkit-text-size-adjust: none;" width=3D"10">&nbsp;</td>
+<td style=3D"font-family: Arial, Helvetica, sans-serif; text-align: left; f=
+ont-size: 12px; -webkit-text-size-adjust: none;">East Midlands</td>
+</tr>
+<tr>
+<td style=3D"-webkit-text-size-adjust: none;" width=3D"10">&nbsp;</td>
+<td style=3D"font-family: Arial, Helvetica, sans-serif; text-align: left; f=
+ont-size: 12px; -webkit-text-size-adjust: none;"><strong>Drop Off Date:</st=
+rong></td>
+<td style=3D"-webkit-text-size-adjust: none;" width=3D"10">&nbsp;</td>
+<td style=3D"font-family: Arial, Helvetica, sans-serif; text-align: left; f=
+ont-size: 12px; -webkit-text-size-adjust: none;">17/05/2024 15:00:00</td>
+</tr>
+<tr>
+<td style=3D"-webkit-text-size-adjust: none;" width=3D"10">&nbsp;</td>
+<td style=3D"font-family: Arial, Helvetica, sans-serif; text-align: left; f=
+ont-size: 12px; -webkit-text-size-adjust: none;"><strong>Return Date:</stro=
+ng></td>
+<td style=3D"-webkit-text-size-adjust: none;" width=3D"10">&nbsp;</td>
+<td style=3D"font-family: Arial, Helvetica, sans-serif; text-align: left; f=
+ont-size: 12px; -webkit-text-size-adjust: none;">25/05/2024 02:00:00</td>
+</tr>
+<tr>
+<td style=3D"-webkit-text-size-adjust: none;" width=3D"10">&nbsp;</td>
+<td style=3D"font-family: Arial, Helvetica, sans-serif; text-align: left; f=
+ont-size: 12px; -webkit-text-size-adjust: none;"><strong>Outbound Terminal:=
+</strong></td>
+<td style=3D"-webkit-text-size-adjust: none;" width=3D"10">&nbsp;</td>
+<td style=3D"font-family: Arial, Helvetica, sans-serif; text-align: left; f=
+ont-size: 12px; -webkit-text-size-adjust: none;">Main</td>
+</tr>
+<tr>
+<td style=3D"-webkit-text-size-adjust: none;" width=3D"10">&nbsp;</td>
+<td style=3D"font-family: Arial, Helvetica, sans-serif; text-align: left; f=
+ont-size: 12px; -webkit-text-size-adjust: none;"><strong>Inbound Terminal:<=
+/strong></td>
+<td style=3D"-webkit-text-size-adjust: none;" width=3D"10">&nbsp;</td>
+<td style=3D"font-family: Arial, Helvetica, sans-serif; text-align: left; f=
+ont-size: 12px; -webkit-text-size-adjust: none;">Main</td>
+</tr>
+<tr>
+<td style=3D"-webkit-text-size-adjust: none;" width=3D"10" height=3D"20">&n=
+bsp;</td>
+<td style=3D"-webkit-text-size-adjust: none;" height=3D"20">&nbsp;</td>
+<td style=3D"-webkit-text-size-adjust: none;" width=3D"10" height=3D"20">&n=
+bsp;</td>
+<td style=3D"-webkit-text-size-adjust: none;" height=3D"20">&nbsp;</td>
+</tr>
+<tr>
+<td style=3D"-webkit-text-size-adjust: none;" width=3D"10">&nbsp;</td>
+<td style=3D"font-family: Arial, Helvetica, sans-serif; text-align: left; f=
+ont-size: 12px; -webkit-text-size-adjust: none;"><strong>Name:</strong></td>
+<td style=3D"-webkit-text-size-adjust: none;" width=3D"10">&nbsp;</td>
+<td style=3D"font-family: Arial, Helvetica, sans-serif; text-align: left; f=
+ont-size: 12px; -webkit-text-size-adjust: none;">Siobain Behan</td>
+</tr>
+<tr>
+<td style=3D"-webkit-text-size-adjust: none;" width=3D"10">&nbsp;</td>
+<td style=3D"font-family: Arial, Helvetica, sans-serif; text-align: left; f=
+ont-size: 12px; -webkit-text-size-adjust: none;"><strong>Contact Phone:</st=
+rong></td>
+<td style=3D"-webkit-text-size-adjust: none;" width=3D"10">&nbsp;</td>
+<td style=3D"font-family: Arial, Helvetica, sans-serif; text-align: left; f=
+ont-size: 12px; -webkit-text-size-adjust: none;">+447446041544</td>
+</tr>
+<tr>
+<td style=3D"-webkit-text-size-adjust: none;" width=3D"10">&nbsp;</td>
+<td style=3D"font-family: Arial, Helvetica, sans-serif; text-align: left; f=
+ont-size: 12px; -webkit-text-size-adjust: none;"><strong>Passenger Number:<=
+/strong></td>
+<td style=3D"-webkit-text-size-adjust: none;" width=3D"10">&nbsp;</td>
+<td style=3D"font-family: Arial, Helvetica, sans-serif; text-align: left; f=
+ont-size: 12px; -webkit-text-size-adjust: none;">1</td>
+</tr>
+<tr>
+<td style=3D"-webkit-text-size-adjust: none;" width=3D"10" height=3D"20">&n=
+bsp;</td>
+<td style=3D"-webkit-text-size-adjust: none;" height=3D"20">&nbsp;</td>
+<td style=3D"-webkit-text-size-adjust: none;" width=3D"10" height=3D"20">&n=
+bsp;</td>
+<td style=3D"-webkit-text-size-adjust: none;" height=3D"20">&nbsp;</td>
+</tr>
+<tr>
+<td style=3D"-webkit-text-size-adjust: none;" width=3D"10">&nbsp;</td>
+<td style=3D"font-family: Arial, Helvetica, sans-serif; text-align: left; f=
+ont-size: 12px; -webkit-text-size-adjust: none;"><strong>Registration:</str=
+ong></td>
+<td style=3D"-webkit-text-size-adjust: none;" width=3D"10">&nbsp;</td>
+<td style=3D"font-family: Arial, Helvetica, sans-serif; text-align: left; f=
+ont-size: 12px; -webkit-text-size-adjust: none;">YE18NPX</td>
+</tr>
+<tr>
+<td style=3D"-webkit-text-size-adjust: none;" width=3D"10" height=3D"20">&n=
+bsp;</td>
+<td style=3D"-webkit-text-size-adjust: none;" height=3D"20">&nbsp;</td>
+<td style=3D"-webkit-text-size-adjust: none;" width=3D"10" height=3D"20">&n=
+bsp;</td>
+<td style=3D"-webkit-text-size-adjust: none;" height=3D"20">&nbsp;</td>
+</tr>
+<tr>
+<td style=3D"-webkit-text-size-adjust: none;" width=3D"10">&nbsp;</td>
+<td style=3D"font-family: Arial, Helvetica, sans-serif; text-align: left; f=
+ont-size: 12px; -webkit-text-size-adjust: none;"><strong>Price:</strong></t=
+d>
+<td style=3D"-webkit-text-size-adjust: none;" width=3D"10">&nbsp;</td>
+<td style=3D"font-family: Arial, Helvetica, sans-serif; text-align: left; f=
+ont-size: 12px; -webkit-text-size-adjust: none;">&pound;80.00</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr valign=3D"top">
+<td style=3D"-webkit-text-size-adjust: none;" align=3D"center" height=3D"20=
+">&nbsp;</td>
+</tr>
+<tr>
+<td class=3D"v1hide" style=3D"-webkit-text-size-adjust: none;" align=3D"cen=
+ter" height=3D"30">
+<table style=3D"border-collapse: collapse;" border=3D"0" width=3D"630" cell=
+spacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td style=3D"-webkit-text-size-adjust: none;" align=3D"left"><span style=3D=
+"font-family: Arial, Helvetica, sans-serif; text-align: left; font-size: 11=
+px; color: #666666;">Add noreply@looking4parking.com to your contacts to en=
+sure receipt of future emails.</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<img style=3D"visibility: hidden !important; display: block !important; hei=
+ght: 1px !important; width: 1px !important; border-width: 0 !important; pad=
+ding: 0 !important; margin: 0 !important;" src=3D"cid:1715472310664007b644a=
+d9079013149@emaparking.co.uk" width=3D"1" height=3D"1" border=3D"0" /></div>
+</div>
+</body></html>
+
+--=_30db091fb09f5c5b1511c931ee8e90d2
+Content-Transfer-Encoding: base64
+Content-ID: <1715472310664007b644ad9079013149@emaparking.co.uk>
+Content-Type: image/gif;
+ name=blocked.gif
+Content-Disposition: inline;
+ filename=blocked.gif;
+ size=118
+
+R0lGODlhZAAyAIAAAPrOzgAAACH5BAAAAAAALAAAAABkADIAAAJNhI+py+0Po5y02ouz3rz7D4bi
+SJbmiabqyrbuC8fyTNf2jef6zvf+DwwKh8Si8YhMKpfMpvMJjUqn1Kr1is1qt9yu9wsOi8fksvls
+KwAAOw==
+--=_30db091fb09f5c5b1511c931ee8e90d2--
+
+--=_ea30232270ea134ec890e0ece38509d2--

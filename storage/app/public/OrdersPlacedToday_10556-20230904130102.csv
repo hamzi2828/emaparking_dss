@@ -1,0 +1,3 @@
+Reference,Order Price,Drop Off Date/Time,Return Date/Time,Car Reg,Status,Order Date,Departure Flight Number,Departure Terminal,Return Flight Number,Return Terminal,Make,Model,Car Colour,Contact Number,No of Passengers,Third Party Reference,Customer Full Name,Transaction Currency,Product Native Currency,Product Native Price,Purchase Model,Deposit Amount,Car Park Balance
+SPS-1-5868536,75.00,2023/09/08 13:30:00,2023/09/12 21:30:00,BP69FMX,ACTIVE,2023/09/04 12:00:50,FR9489,Main,FR6032,Main,Ford,Ranger,White,07800911137,2,,Calum Phillips,GBP,GBP,75.00,FullPrice,0.00,0.00
+SPS-1-5868715,90.00,2023/09/12 12:00:00,2023/09/19 12:00:00,LB66WZT,ACTIVE,2023/09/04 12:56:29,,Main,Ls670,Main,JEEP,RENEGADE,GREY,07447286373,1,,Yanko Kamburov,GBP,GBP,90.00,FullPrice,0.00,0.00

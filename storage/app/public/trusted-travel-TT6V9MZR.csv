@@ -1,0 +1,2 @@
+status,booked_at,booking_reference,source,product_code,product_name,airport_code,arrival_date,departure_date,price,supplier_cost,name,contact_number,car_registration,car_manufacture,car_model,car_colour,passengers,out_flight,return_flight,out_terminal,return_terminal,flight_departure_time,flight_return_time
+new,"2023-07-10 19:04:34",TT6V9MZR,"Trusted Travel",EMAMGNF,"Midlands Airport Meet and Greet - Non Flex",EMA,"2023-07-20 08:00:00","2023-07-24 13:30:00",75.00,52.50,"Cheryl Chadwick",07735214312,"EA63 VZS",HYUNDAI,"IX35 S CRDI",WHITE,1,,,,,,

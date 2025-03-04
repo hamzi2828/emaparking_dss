@@ -1,0 +1,5 @@
+Reference,Order Price,Drop Off Date/Time,Return Date/Time,Car Reg,Status,Order Date,Departure Flight Number,Departure Terminal,Return Flight Number,Return Terminal,Make,Model,Car Colour,Contact Number,No of Passengers,Third Party Reference,Customer Full Name,Transaction Currency,Product Native Currency,Product Native Price,Purchase Model,Deposit Amount,Car Park Balance
+SPS-1-6365627,64.00,2024/04/16 02:00:00,2024/04/22 00:05:00,DG61AJV,ACTIVE,2024/04/05 12:30:11,FR3852,Main,FR3851,Main,VAUXHALL,Corsa,RED,07746411714,1,,Luke Gurnett,GBP,GBP,64.00,FullPrice,0.00,0.00
+SPS-1-6366024,58.00,2024/04/07 14:30:00,2024/04/11 23:15:00,BJ22NTC,ACTIVE,2024/04/05 15:12:59,FR9185,Main,FR9184,Main,BMW,2Series,GREY,07766318269,1,,Duncan Mcphee,GBP,GBP,58.00,FullPrice,0.00,0.00
+SPS-1-6366104,55.00,2024/04/06 05:00:00,2024/04/09 19:00:00,SW69KAY,ACTIVE,2024/04/05 15:49:27,ls685,Main,lsa686,Main,SEAT,Leon,BLACK,07919141561,2,,Kay Lawson,GBP,GBP,55.00,FullPrice,0.00,0.00
+SPS-1-6367096,90.00,2024/04/07 14:00:00,2024/04/20 01:15:00,P11UXL,ACTIVE,2024/04/06 01:20:04,LS651,Main,LS634,Main,BMW,3Series,BLUE,07925284525,1,,Paul Robinson,GBP,GBP,90.00,FullPrice,0.00,0.00

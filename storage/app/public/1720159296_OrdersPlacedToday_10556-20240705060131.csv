@@ -1,0 +1,3 @@
+Reference,Order Price,Drop Off Date/Time,Return Date/Time,Car Reg,Status,Order Date,Departure Flight Number,Departure Terminal,Return Flight Number,Return Terminal,Make,Model,Car Colour,Contact Number,No of Passengers,Third Party Reference,Customer Full Name,Transaction Currency,Product Native Currency,Product Native Price,Purchase Model,Deposit Amount,Car Park Balance
+SPS-1-6596072,90.00,2024/07/12 09:00:00,2024/07/19 16:30:00,YF66HXL,ACTIVE,2024/07/05 05:03:07,FR1362,Main,FR1633,Main,NISSAN,Qashqai,BLACK,07740650405,1,,Joanne Singh,GBP,GBP,90.00,FullPrice,0.00,0.00
+SPS-1-6596104,90.00,2024/07/08 11:00:00,2024/07/15 23:55:00,HT08SAZ,ACTIVE,2024/07/05 05:45:44,TOM254,Main,TOM255,Main,Nissan,Qashqai,Black,07776792309,4,,Sarah Hunt,GBP,GBP,90.00,FullPrice,0.00,0.00

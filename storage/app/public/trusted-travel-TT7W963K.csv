@@ -1,0 +1,2 @@
+status,booked_at,booking_reference,source,product_code,product_name,airport_code,arrival_date,departure_date,price,supplier_cost,name,contact_number,car_registration,car_manufacture,car_model,car_colour,passengers,out_flight,return_flight,out_terminal,return_terminal,flight_departure_time,flight_return_time
+new,"2023-08-07 14:47:11",TT7W963K,"Trusted Travel",EMAMGNF,"Midlands Airport Meet and Greet - Non Flex",EMA,"2023-08-10 02:00:00","2023-08-17 17:00:00",110.00,77.00,"Arran Took",07712293311,"AJ68XFA ","Ford ",Ranger,Black,1,,,,,,

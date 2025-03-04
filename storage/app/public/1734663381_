@@ -1,0 +1,56 @@
+Received: from [10.4.13.36] (helo=smtp2.lhr.stackcp.net)
+	by relay2.stackmail.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.98)
+	(envelope-from <bookings@emaparking.co.uk>)
+	id 1tOTE7-000000005ay-0iTh
+	for booking@emaparking.co.uk;
+	Fri, 20 Dec 2024 02:58:55 +0000
+Received: from shared-external-lhr1.stackcp.com ([45.8.227.175] helo=stackmail.com)
+	by smtp2.lhr.stackcp.net with esmtpa (Exim 4.98)
+	(envelope-from <bookings@emaparking.co.uk>)
+	id 1tOTE6-000000007GJ-3znY;
+	Fri, 20 Dec 2024 02:58:55 +0000
+MIME-Version: 1.0
+Date: Fri, 20 Dec 2024 02:58:54 +0000
+From: bookings@emaparking.co.uk
+To: Booking <booking@emaparking.co.uk>, Bookings <bookings@emaparking.co.uk>
+Subject: Fwd: APH M&G Bookings
+In-Reply-To: <20241219234101.4B601E007E@extras101>
+References: <20241219234101.4B601E007E@extras101>
+Message-ID: <b3fda29bd3839c892d731b6850dda3a6@emaparking.co.uk>
+X-Sender: bookings@emaparking.co.uk
+Content-Type: multipart/mixed;
+ boundary="=_5a7f6d75441b69efe57b7f87ac2dbf10"
+X-Authenticated-Sender: bookings@emaparking.co.uk
+X-Scan-Signature: cfdc393270692dd0c2b9191d65472aa0
+
+--=_5a7f6d75441b69efe57b7f87ac2dbf10
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset=US-ASCII;
+ format=flowed
+
+
+
+-------- Original Message --------
+Subject: APH M&G Bookings
+Date: 2024-12-19 23:40
+ From: "APH Reservations"<admin@aph.com>
+To: ""<aph@emaparking.co.uk>
+
+
+--=_5a7f6d75441b69efe57b7f87ac2dbf10
+Content-Transfer-Encoding: base64
+Content-Type: text/plain; charset=us-ascii;
+ name=APH191224.csv
+Content-Disposition: attachment;
+ filename=APH191224.csv;
+ size=364
+
+IjEwNCIsIk5FVyAgICAiLCJKOE03WSAgIiwiICAgICAgICAgICAgICAgICAgICIsIjA0LzAxLzI1
+IiwiTXIgICIsIlIiLCJXTjcyVUJCICAgIiwiTUVSQ0VERVMtQiIsIkJMVUUgICAgICAiLCIgMyIs
+IjA4OjMwIiwiTFM2MzEgICIsIjAwMDAwNTYuMDAiLCIgICAgICAgIiwiMTEvMDEvMjUiLCIyMDoz
+MCIsIkxTNjMyICAiLCIgIiwiICIsIiAgICAiLCJIdW1waHJleSAgICAgICAgICAgICIsIjE5LzEy
+LzI0IiwiMDA6MDAiLCIgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAiLCIgIiwiQkIiLCIiLCIiLCIgICAgIiwiICAgICIsIjA3ODA4MDU2
+MDAyICIsIjAxNzA5NTE3NTM1ICINCg==
+--=_5a7f6d75441b69efe57b7f87ac2dbf10--

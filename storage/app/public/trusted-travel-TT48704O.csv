@@ -1,0 +1,2 @@
+status,booked_at,booking_reference,source,product_code,product_name,airport_code,arrival_date,departure_date,price,supplier_cost,name,contact_number,car_registration,car_manufacture,car_model,car_colour,passengers,out_flight,return_flight,out_terminal,return_terminal,flight_departure_time,flight_return_time
+new,"2023-09-11 14:06:16",TT48704O,"Trusted Travel",EMAMGNF,"Midlands Airport Meet and Greet - Non Flex",EMA,"2023-09-13 12:00:00","2023-09-27 00:00:00",195.00,136.50,"Adrain Barwick",07751916123,AVO9GYZ,AUDIQ5,SLINE,"Gun metal grey",1,,,,,,

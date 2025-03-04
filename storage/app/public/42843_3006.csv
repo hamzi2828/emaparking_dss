@@ -1,0 +1,4 @@
+Reference,Order Price,Drop Off Date/Time,Return Date/Time,Car Reg,Status,Order Date,Departure Flight Number,Departure Terminal,Return Flight Number,Return Terminal,Make,Model,Car Colour,Contact Number,No Of Passengers,Third Party Reference,Customer Fullname,Transaction Currency,Product Native Currency,Product Native Price,Purchase Model,Deposit Amount,Car Park Balance
+FHRSPECIAL,103,18/06/2023 05:00,28/06/2023 15:00,FP20UFB,NEW,12/06/2023 23:29,,,FR1766,,HYUNDAI/TUCSON,HYUNDAI/TUCSON,RED,07891281979,1,2130123465,MRS I PEREIRA KAYODE,GBP,GBP,74.675, ,0,74.675
+FHRSPECIAL,103,15/06/2023 04:00,25/06/2023 23:50,LX62 PXF,NEW,12/06/2023 23:37,,,FR3851,,FORD FOCUS,FORD FOCUS,BLACK,07851235654,1,2130126545,MISS S WALSH,GBP,GBP,74.675, ,0,74.675
+

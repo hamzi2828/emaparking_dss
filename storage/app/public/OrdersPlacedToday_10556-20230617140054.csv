@@ -1,0 +1,3 @@
+Reference,Order Price,Drop Off Date/Time,Return Date/Time,Car Reg,Status,Order Date,Departure Flight Number,Departure Terminal,Return Flight Number,Return Terminal,Make,Model,Car Colour,Contact Number,No of Passengers,Third Party Reference,Customer Full Name,Transaction Currency,Product Native Currency,Product Native Price,Purchase Model,Deposit Amount,Car Park Balance
+SPS-1-5681380,65.00,2023/06/19 15:00:00,2023/06/21 17:00:00,WG07UGX,ACTIVE,2023/06/17 13:17:35,DJ1TVT,Main,jn98NX,Main,VOLKSWAGEN,PASSAT,GREY,07951898316,1,,Jaimie Mudd,GBP,GBP,65.00,FullPrice,0.00,0.00
+L4P-1-5681403,75.00,2023/06/19 10:00:00,2023/06/23 23:45:00,KS70FTF,ACTIVE,2023/06/17 13:33:27,FR1702,Main,FR1703,Main,Seat,Ateca,White,+447747547510,2,,Marc Farnell,GBP,GBP,75.00,FullPrice,0.00,0.00

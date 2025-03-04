@@ -1,0 +1,3 @@
+Reference,Order Price,Drop Off Date/Time,Return Date/Time,Car Reg,Status,Order Date,Departure Flight Number,Departure Terminal,Return Flight Number,Return Terminal,Make,Model,Car Colour,Contact Number,No of Passengers,Third Party Reference,Customer Full Name,Transaction Currency,Product Native Currency,Product Native Price,Purchase Model,Deposit Amount,Car Park Balance
+SPS-1-6394156,105.00,2024/06/12 16:00:00,2024/06/28 19:30:00,YT18VNK,CANCEL,2024/04/16 07:59:02,FR1956,Main,FR1767,Main,BMW,X1,BLUE,07790274884,1,,Nicola Brown,GBP,GBP,105.00,FullPrice,0.00,0.00
+L4P-1-6536831,63.00,2024/07/05 03:00:00,2024/07/09 11:30:00,HJ68VKK,ACTIVE,2024/06/10 16:47:03,FR470,Main,FR471,Main,VW,Golf,Grey,+447592475480,2,,Luigi Donini,GBP,GBP,63.00,FullPrice,0.00,0.00

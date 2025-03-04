@@ -1,0 +1,2 @@
+ProductCode,Refno,Airport,BookingDate,BookingTime,DepartureDate,DepartureTime,ReturnDate,ReturnTime,DepartureTerminal,ReturnTerminal,TotalDays,Title,FirstName,LastName,Telephone,BookingPrice,DeptFlight,ReturnFlight,AirportLevyFee,CarMake,CarModel,CarColor,CarRegistration,BookingStatus
+FPP647,TP-23070513381,"East Midlands ",2023-07-05,10:23:14,2023-07-25,18:00:00,2023-07-29,10:00:00,Main,Main,5,Mr,Mark,Carroll,07599669599,90.00,TBA,FR534,0,DS,DS3,Purple,KV20DPN,Next

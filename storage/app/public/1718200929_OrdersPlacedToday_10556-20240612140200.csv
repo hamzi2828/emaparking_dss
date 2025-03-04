@@ -1,0 +1,3 @@
+Reference,Order Price,Drop Off Date/Time,Return Date/Time,Car Reg,Status,Order Date,Departure Flight Number,Departure Terminal,Return Flight Number,Return Terminal,Make,Model,Car Colour,Contact Number,No of Passengers,Third Party Reference,Customer Full Name,Transaction Currency,Product Native Currency,Product Native Price,Purchase Model,Deposit Amount,Car Park Balance
+SPS-1-6541730,75.00,2024/06/28 14:00:00,2024/07/02 00:45:00,HG62EBK,ACTIVE,2024/06/12 13:41:58,FR6601,Main,FR6602,Main,NISSAN,Qashqai,SILVER,07952057097,4,,Ceri Peplow,GBP,GBP,75.00,FullPrice,0.00,0.00
+SPS-1-6541731,75.00,2024/06/28 14:00:00,2024/07/02 00:45:00,BU65XRY,ACTIVE,2024/06/12 13:42:02,FR6601,Main,FR6602,Main,VAUXHALL,Mokka,WHITE,07952057097,2,,Ceri Peplow,GBP,GBP,75.00,FullPrice,0.00,0.00

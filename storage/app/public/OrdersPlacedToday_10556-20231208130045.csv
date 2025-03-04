@@ -1,0 +1,3 @@
+Reference,Order Price,Drop Off Date/Time,Return Date/Time,Car Reg,Status,Order Date,Departure Flight Number,Departure Terminal,Return Flight Number,Return Terminal,Make,Model,Car Colour,Contact Number,No of Passengers,Third Party Reference,Customer Full Name,Transaction Currency,Product Native Currency,Product Native Price,Purchase Model,Deposit Amount,Car Park Balance
+SPS-1-6090928,84.00,2023/12/18 13:45:00,2024/01/02 20:30:00,JB08BOP,ACTIVE,2023/12/08 12:03:25,FR4458,Main,FR4459,Main,VAUXHALL,Mokka,WHITE,07784998980,2,,Jane Brearley,GBP,GBP,84.00,FullPrice,0.00,0.00
+SPS-1-6090948,46.00,2023/12/09 04:15:00,2023/12/11 09:00:00,MX13FXS,ACTIVE,2023/12/08 12:14:48,OLTU8D,Main,FR1691,Main,INFINITI,QX70,BLACK,07810305000,1,,Mike Collin,GBP,GBP,46.00,FullPrice,0.00,0.00

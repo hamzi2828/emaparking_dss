@@ -1,0 +1,4 @@
+Reference,Order Price,Drop Off Date/Time,Return Date/Time,Car Reg,Status,Order Date,Departure Flight Number,Departure Terminal,Return Flight Number,Return Terminal,Make,Model,Car Colour,Contact Number,No of Passengers,Third Party Reference,Customer Full Name,Transaction Currency,Product Native Currency,Product Native Price,Purchase Model,Deposit Amount,Car Park Balance
+SPS-1-6548260,119.00,2024/09/15 14:00:00,2024/09/30 03:00:00,MT14WDZ,ACTIVE,2024/06/15 12:42:21,LS625,Main,LS626,Main,FORD,Mondeo,BLACK,07956077629,2,,Helen Occleshaw,GBP,GBP,119.00,FullPrice,0.00,0.00
+SPS-1-6548518,80.00,2024/08/03 03:00:00,2024/08/07 16:00:00,DA15LHY,ACTIVE,2024/06/15 14:49:03,LS601,Main,FR6602,Main,NISSAN,Juke,BLACK,07821887073,2,,Jessica Fulton,GBP,GBP,80.00,FullPrice,0.00,0.00
+SPS-1-6548626,92.00,2024/07/12 04:15:00,2024/07/19 13:00:00,BA68KGF,ACTIVE,2024/06/15 15:49:13,Ls601,Main,Ls602,Main,AUDI,A6,BLACK,07739038054,4,,David King,GBP,GBP,92.00,FullPrice,0.00,0.00

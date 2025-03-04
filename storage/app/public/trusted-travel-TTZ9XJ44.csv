@@ -1,0 +1,2 @@
+status,booked_at,booking_reference,source,product_code,product_name,airport_code,arrival_date,departure_date,price,supplier_cost,name,contact_number,car_registration,car_manufacture,car_model,car_colour,passengers,out_flight,return_flight,out_terminal,return_terminal,flight_departure_time,flight_return_time
+new,"2023-08-07 19:59:07",TTZ9XJ44,"Trusted Travel",EMAMGTT,"Trusted Meet and Greet",EMA,"2023-08-14 03:30:00","2023-08-21 14:30:00",93.00,65.10,"Paul Fitch",07841900526,P66PFF,Mazda,"CX5 GT Sport",Red,1,,,,,,

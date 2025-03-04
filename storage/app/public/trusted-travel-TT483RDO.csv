@@ -1,0 +1,2 @@
+status,booked_at,booking_reference,source,product_code,product_name,airport_code,arrival_date,departure_date,price,supplier_cost,name,contact_number,car_registration,car_manufacture,car_model,car_colour,passengers,out_flight,return_flight,out_terminal,return_terminal,flight_departure_time,flight_return_time
+new,"2023-07-31 09:25:14",TT483RDO,"Trusted Travel",EMAMGNF,"Midlands Airport Meet and Greet - Non Flex",EMA,"2023-08-08 05:30:00","2023-08-12 16:30:00",90.00,63.00,"Robin  Harris ",07411202184,RH02EAT,JEEP,"G-CHEROKEE OVERLAND CRD A",BLACK,1,,,,,,

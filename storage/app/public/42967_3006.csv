@@ -1,0 +1,4 @@
+Reference,Order Price,Drop Off Date/Time,Return Date/Time,Car Reg,Status,Order Date,Departure Flight Number,Departure Terminal,Return Flight Number,Return Terminal,Make,Model,Car Colour,Contact Number,No Of Passengers,Third Party Reference,Customer Fullname,Transaction Currency,Product Native Currency,Product Native Price,Purchase Model,Deposit Amount,Car Park Balance
+FHRSPECIAL,103,18/07/2023 04:00,28/07/2023 17:00,AK220RG,NEW,25/06/2023 12:14,,,FR3173,,RENAULT ARKANA,RENAULT ARKANA,BLUE,07939026699,1,2130250084,MR M BRYAN,GBP,GBP,74.675, ,0,74.675
+FHRSPECIAL,103,18/07/2023 04:00,28/07/2023 17:00,KV68JVF,NEW,25/06/2023 12:14,,,FR3173,,BMW 5 SERIES,BMW 5 SERIES,BLUE,07939026699,1,2130258813,MR M BRYAN,GBP,GBP,74.675, ,0,74.675
+

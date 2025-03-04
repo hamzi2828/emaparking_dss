@@ -1,0 +1,2 @@
+status,booked_at,booking_reference,source,product_code,product_name,airport_code,arrival_date,departure_date,price,supplier_cost,name,contact_number,car_registration,car_manufacture,car_model,car_colour,passengers,out_flight,return_flight,out_terminal,return_terminal,flight_departure_time,flight_return_time
+new,"2023-08-17 12:15:07",TTQXZ470,"Trusted Travel",EMAMGNF,"Midlands Airport Meet and Greet - Non Flex",EMA,"2023-09-08 00:00:00","2023-09-13 00:00:00",80.00,56.00,"Hayley Rigby",0741584706,BK06VRN,NISSAN,"MICRA SPORT C+C",BLACK,1,,,,,,

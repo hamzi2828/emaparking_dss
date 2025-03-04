@@ -1,0 +1,3 @@
+Reference,Order Price,Drop Off Date/Time,Return Date/Time,Car Reg,Status,Order Date,Departure Flight Number,Departure Terminal,Return Flight Number,Return Terminal,Make,Model,Car Colour,Contact Number,No of Passengers,Third Party Reference,Customer Full Name,Transaction Currency,Product Native Currency,Product Native Price,Purchase Model,Deposit Amount,Car Park Balance
+SPS-1-6611954,110.00,2024/07/27 10:00:00,2024/08/03 20:00:00,VF14FAU,ACTIVE,2024/07/11 18:39:47,LS683,Main,LS684,Main,VAUXHALL,Mokka,BLUE,07920714639,3,,Debra Short,GBP,GBP,110.00,FullPrice,0.00,0.00
+SPS-1-6611956,110.00,2024/07/27 10:00:00,2024/08/03 20:00:00,FT17BFJ,ACTIVE,2024/07/11 18:40:06,LS683,Main,LS684,Main,KIA,Sportage,SILVER,07920714639,1,,Debra Short,GBP,GBP,110.00,FullPrice,0.00,0.00

@@ -1,0 +1,3 @@
+Reference,Order Price,Drop Off Date/Time,Return Date/Time,Car Reg,Status,Order Date,Departure Flight Number,Departure Terminal,Return Flight Number,Return Terminal,Make,Model,Car Colour,Contact Number,No of Passengers,Third Party Reference,Customer Full Name,Transaction Currency,Product Native Currency,Product Native Price,Purchase Model,Deposit Amount,Car Park Balance
+SPS-1-6527682,108.00,2024/07/20 06:45:00,2024/08/07 23:00:00,DN60HXC,ACTIVE,2024/06/06 13:07:44,,Main,KI1T9F,Main,Vauxhall,Insignia,Silver,07478051369,1,,Lucjan Mazur,GBP,GBP,108.00,FullPrice,0.00,0.00
+L4P-1-6527729,75.00,2024/06/18 05:45:00,2024/06/22 00:45:00,VE16YMC,ACTIVE,2024/06/06 13:31:43,FR4458,Main,FR4459,Main,Ford,Ranger,White,+447930870919,2,,Lindsay Wilson,GBP,GBP,75.00,FullPrice,0.00,0.00

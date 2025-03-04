@@ -1,0 +1,2 @@
+status,booked_at,booking_reference,source,product_code,product_name,airport_code,arrival_date,departure_date,price,supplier_cost,name,contact_number,car_registration,car_manufacture,car_model,car_colour,passengers,out_flight,return_flight,out_terminal,return_terminal,flight_departure_time,flight_return_time
+new,"2023-08-27 15:55:45",TTE07ROM,"Trusted Travel",EMAMGNF,"Midlands Airport Meet and Greet - Non Flex",EMA,"2024-05-21 12:30:00","2024-06-05 01:30:00",102.00,71.40,"Julie Sadler",07432132805,"N17RSP ","Jaguar ","XF Sportbrake (X250) (09/2012 - 04/2014)","Black ",1,,,,,,

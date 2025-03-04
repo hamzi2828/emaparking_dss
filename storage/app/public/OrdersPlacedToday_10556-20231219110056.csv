@@ -1,0 +1,3 @@
+Reference,Order Price,Drop Off Date/Time,Return Date/Time,Car Reg,Status,Order Date,Departure Flight Number,Departure Terminal,Return Flight Number,Return Terminal,Make,Model,Car Colour,Contact Number,No of Passengers,Third Party Reference,Customer Full Name,Transaction Currency,Product Native Currency,Product Native Price,Purchase Model,Deposit Amount,Car Park Balance
+SPS-1-6109309,90.00,2023/12/23 13:00:00,2023/12/31 01:30:00,SA18ANU,ACTIVE,2023/12/19 10:03:38,FR3701,Main,FR3702,Main,BMW,X5,WHITE,447588840550,4,,Nagaraj Kethineni,GBP,GBP,90.00,FullPrice,0.00,0.00
+SPS-1-6109310,90.00,2023/12/23 13:00:00,2023/12/31 01:30:00,H16UJA,AMENDMENT,2023/12/19 10:03:40,FR3701,Main,FR3702,Main,Mercedes,GLC,White,447588840550,5,,Nagaraj Kethineni,GBP,GBP,90.00,FullPrice,0.00,0.00

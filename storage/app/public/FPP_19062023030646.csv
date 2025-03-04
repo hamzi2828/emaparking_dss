@@ -1,0 +1,2 @@
+ProductCode,Refno,Airport,BookingDate,BookingTime,DepartureDate,DepartureTime,ReturnDate,ReturnTime,DepartureTerminal,ReturnTerminal,TotalDays,Title,FirstName,LastName,Telephone,BookingPrice,DeptFlight,ReturnFlight,AirportLevyFee,CarMake,CarModel,CarColor,CarRegistration,BookingStatus
+FPP647,TP-23061913320,"East Midlands ",2023-06-19,15:55:34,2023-06-23,10:00:00,2023-06-26,23:45:00,Main,Main,4,Mr,Peter,George,07917774516,70.00,TBA,FR6602,0,Audi,"Etron Sportback",Grey,LP72BBN,Next

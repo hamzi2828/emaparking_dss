@@ -1,0 +1,3 @@
+booking_reference,gross_amount,entry_datetime,exit_datetime,license_plate,booking_status_name,booking_datetime,flight_number,departure_terminal,return_flight_number,return_terminal,vehicle_make,vehicle_model,vehicle_colour,contact_number,passenger_count,third_party_reference,customer_name,transaction_currency,product_native_currency,product_native_price,purchase_model,deposit_amount,car_park_balance,product_name,booking_item_reference
+SPSAPI-141657,50.84,2024-10-06 06:15:00,2024-10-09 12:45:00,FE62AVW,Confirmed,2024-10-03 14:41:31,,,,,,,,,,,NICOLA DOBBS,GBP,GBP,,,,,EMA Midlands Parking NF,PARKING-130916
+L4API-141639,120.00,2024-10-25 12:00:00,2024-11-15 19:45:00,Da19yjl,Confirmed,2024-10-03 14:17:30,,,,,,,,,,,STUART LORD,GBP,GBP,,,,,EMA Midlands Parking,PARKING-130899

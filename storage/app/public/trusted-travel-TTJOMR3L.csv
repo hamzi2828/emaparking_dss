@@ -1,0 +1,2 @@
+status,booked_at,booking_reference,source,product_code,product_name,airport_code,arrival_date,departure_date,price,supplier_cost,name,contact_number,car_registration,car_manufacture,car_model,car_colour,passengers,out_flight,return_flight,out_terminal,return_terminal,flight_departure_time,flight_return_time
+new,"2023-07-10 17:25:38",TTJOMR3L,"Trusted Travel",EMAMGTT,"Trusted Meet and Greet",EMA,"2023-08-06 10:00:00","2023-08-20 00:00:00",128.00,89.60,"Kerry Deakin",07977694410,KM65KUX,RENAULT,"CAPTUR DYNAMIQUE NAV TCE",CREAM,1,,,,,,

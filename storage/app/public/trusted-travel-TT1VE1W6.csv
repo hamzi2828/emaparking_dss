@@ -1,0 +1,2 @@
+status,booked_at,booking_reference,source,product_code,product_name,airport_code,arrival_date,departure_date,price,supplier_cost,name,contact_number,car_registration,car_manufacture,car_model,car_colour,passengers,out_flight,return_flight,out_terminal,return_terminal,flight_departure_time,flight_return_time
+new,"2023-07-05 18:41:42",TT1VE1W6,"Trusted Travel",EMAMGTT,"Trusted Meet and Greet",EMA,"2023-09-18 03:30:00","2023-09-25 15:00:00",98.00,68.60,"Andy Pritchard",0447894669507,YL69ZPY,BMW,"420D XDRIVE GRANCOUPE MSPORT A",WHITE,1,,,,,,

@@ -1,0 +1,2 @@
+Reference,"Product ID","Product Name","Order Price (paid by customer)","Drop Off Date/Time","Return Date/Time","Car Reg",Status,"Order Date","Departure Flight Number","Departure Terminal","Return Flight Number","Return Terminal",Make,Model,Colour,"Contact Number","No of Passengers","Customer Full Name","Supplier Cost"
+APU-008747,APU49,"East Midlands Airport Parking - Meet and Greet",70.00,"17-07-2024 04:00","20-07-2024 15:00","L111 GTW",Active,"12-07-2024 12:48",LS641,"Main Terminal",LS642,"Main Terminal",AUDI,A5,WHITE,07546744106,,"Mr. GARY WARD",21.00

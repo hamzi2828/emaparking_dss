@@ -1,0 +1,3 @@
+Reference,Order Price,Drop Off Date/Time,Return Date/Time,Car Reg,Status,Order Date,Departure Flight Number,Departure Terminal,Return Flight Number,Return Terminal,Make,Model,Car Colour,Contact Number,No of Passengers,Third Party Reference,Customer Full Name,Transaction Currency,Product Native Currency,Product Native Price,Purchase Model,Deposit Amount,Car Park Balance
+SPS-1-6288279,67.00,2024/03/20 11:00:00,2024/03/27 23:15:00,DG03KAZ,ACTIVE,2024/03/06 07:20:17,Fr3701,Main,Fr3703,Main,NISSAN,Juke,WHITE,07377878728,4,,Donald Grey,GBP,GBP,67.00,FullPrice,0.00,0.00
+SPS-1-6288324,67.00,2024/03/31 12:00:00,2024/04/07 23:55:00,WO19UHD,ACTIVE,2024/03/06 07:47:19,LS655,Main,LS656,Main,FIAT,500,GREEN,07949792323,2,,Sue Ingram,GBP,GBP,67.00,FullPrice,0.00,0.00

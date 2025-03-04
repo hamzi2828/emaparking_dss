@@ -1,0 +1,4 @@
+Reference,Order Price,Drop Off Date/Time,Return Date/Time,Car Reg,Status,Order Date,Departure Flight Number,Departure Terminal,Return Flight Number,Return Terminal,Make,Model,Car Colour,Contact Number,No of Passengers,Third Party Reference,Customer Full Name,Transaction Currency,Product Native Currency,Product Native Price,Purchase Model,Deposit Amount,Car Park Balance
+SPS-1-6549427,65.00,2024/07/29 05:00:00,2024/08/03 14:30:00,GHA1S,ACTIVE,2024/06/16 05:57:06,,Main,Ls606,Main,JAGUAR,FPACE,BLACK,07852271290,5,,Sonia Ghai,GBP,GBP,65.00,FullPrice,0.00,0.00
+SPS-1-6549851,55.00,2024/07/09 13:00:00,2024/07/12 13:00:00,DF13WYU,ACTIVE,2024/06/16 11:00:26,FR9185,Main,FR9184,Main,MERCEDESBENZ,AClass,BLUE,07859812988,3,,Hannah Woods,GBP,GBP,55.00,FullPrice,0.00,0.00
+SPS-1-6550449,95.00,2024/06/17 05:00:00,2024/06/21 13:00:00,BV23HRD,ACTIVE,2024/06/16 15:23:55,Ls605,Main,Ls606,Main,LANDROVER,RangeRover,GOLD,07976851409,1,,Justin Brogan,GBP,GBP,95.00,FullPrice,0.00,0.00

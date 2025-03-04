@@ -1,0 +1,3 @@
+Reference,Order Price,Drop Off Date/Time,Return Date/Time,Car Reg,Status,Order Date,Departure Flight Number,Departure Terminal,Return Flight Number,Return Terminal,Make,Model,Car Colour,Contact Number,No of Passengers,Third Party Reference,Customer Full Name,Transaction Currency,Product Native Currency,Product Native Price,Purchase Model,Deposit Amount,Car Park Balance
+SPS-1-6570912,72.00,2024/07/13 06:00:00,2024/07/20 17:30:00,SY10ADY,AMENDMENT,2024/06/25 15:07:21,FR3856,Main,FR3855,Main,MINI,Hatch,SILVER,07954390709,1,,Adrian Swann,GBP,GBP,72.00,FullPrice,0.00,0.00
+SPS-1-6573812,76.00,2024/07/05 13:00:00,2024/07/13 02:00:00,YG09DVN,ACTIVE,2024/06/26 16:23:37,Ls660,Main,Ls660,Main,VOLKSWAGEN,Jetta,BLUE,07876437771,3,,Aaron Dreikluft,GBP,GBP,76.00,FullPrice,0.00,0.00

@@ -1,0 +1,3 @@
+Reference,Order Price,Drop Off Date/Time,Return Date/Time,Car Reg,Status,Order Date,Departure Flight Number,Departure Terminal,Return Flight Number,Return Terminal,Make,Model,Car Colour,Contact Number,No of Passengers,Third Party Reference,Customer Full Name,Transaction Currency,Product Native Currency,Product Native Price,Purchase Model,Deposit Amount,Car Park Balance
+SPS-1-6454495,58.00,2024/05/09 04:00:00,2024/05/12 14:00:00,BW73EUR,ACTIVE,2024/05/08 12:05:11,fr1702,Main,fr1703,Main,ford,puma,grey,07714219771,1,,Giuseppe Cataldo,GBP,GBP,58.00,FullPrice,0.00,0.00
+SPS-1-6454496,49.00,2024/05/09 04:15:00,2024/05/10 17:00:00,F8UTV,ACTIVE,2024/05/08 12:05:37,FR1702,Main,FR1639,Main,BMW,5Series,BLACK,07950186228,1,,Fraser Bricknell,GBP,GBP,49.00,FullPrice,0.00,0.00

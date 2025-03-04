@@ -1,0 +1,138 @@
+Authentication-Results: relay1.stackmail.com;
+	iprev=fail smtp.remote-ip=10.4.13.36
+Received: from [10.4.13.36] (helo=smtp2.lhr.stackcp.net)
+	by relay1.stackmail.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.96)
+	(envelope-from <bookings@emaparking.co.uk>)
+	id 1s5wk0-0000CR-2O
+	for booking@emaparking.co.uk;
+	Sun, 12 May 2024 01:07:01 +0100
+Received: from shared-external-lhr1.stackcp.com ([45.8.227.175] helo=www.stackmail.com)
+	by smtp2.lhr.stackcp.net with esmtpa (Exim 4.96)
+	(envelope-from <bookings@emaparking.co.uk>)
+	id 1s5wk1-0004LZ-06
+	for booking@emaparking.co.uk;
+	Sun, 12 May 2024 01:07:01 +0100
+MIME-Version: 1.0
+Date: Sun, 12 May 2024 01:07:00 +0100
+From: bookings@emaparking.co.uk
+To: Booking <booking@emaparking.co.uk>
+Subject: Fwd: Looking4.com - Hourly Order Report
+In-Reply-To: <cm.0601200217350.l.l.r.3bb9dc2e0fd111ef82bbc1d432fdac29@cmail19.com>
+References: <cm.0601200217350.l.l.r.3bb9dc2e0fd111ef82bbc1d432fdac29@cmail19.com>
+Message-ID: <bd39abd386168ae28b1194bbe6bf3c92@emaparking.co.uk>
+X-Sender: bookings@emaparking.co.uk
+Content-Type: multipart/mixed;
+ boundary="=_092aafed0effd0168aa62fc49daf2cf3"
+X-Authenticated-Sender: bookings@emaparking.co.uk
+X-Scan-Signature: c52cab459099400977f34b9740596db0
+
+--=_092aafed0effd0168aa62fc49daf2cf3
+Content-Type: multipart/alternative;
+ boundary="=_b7c37e833d2c708690933301232c8d5b"
+
+--=_b7c37e833d2c708690933301232c8d5b
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset=US-ASCII;
+ format=flowed
+
+-------- Original Message --------
+
+  		SUBJECT:
+  		Looking4.com - Hourly Order Report
+
+  		DATE:
+  		2024-05-11 21:01
+
+  		FROM:
+  		"Looking4.com" <reports@looking4.com>
+
+  		TO:
+  		<agentreports@travelparkinggroup.com>, "bookings@emaparking.co.uk" 
+<bookings@emaparking.co.uk>
+
+Hello Midlands Parking - Meet & Greet + Uncovered - Non Flex - East 
+Midlands Airport.
+Please find attached the new orders, amend and cancellations placed 
+through our system.
+--=_b7c37e833d2c708690933301232c8d5b
+Content-Type: multipart/related;
+ boundary="=_7de849151dfaa511381b6752ba57ce7e"
+
+--=_7de849151dfaa511381b6752ba57ce7e
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8" /></head><body style=3D'font-size: 10pt; font-family: Verdana,Gen=
+eva,sans-serif'>
+<p><br /></p>
+<div id=3D"signature"></div>
+<p><br /></p>
+<p>-------- Original Message --------</p>
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<th align=3D"right" valign=3D"baseline" nowrap=3D"nowrap">Subject:</th>
+<td>Looking4.com - Hourly Order Report</td>
+</tr>
+<tr>
+<th align=3D"right" valign=3D"baseline" nowrap=3D"nowrap">Date:</th>
+<td>2024-05-11 21:01</td>
+</tr>
+<tr>
+<th align=3D"right" valign=3D"baseline" nowrap=3D"nowrap">From:</th>
+<td>"Looking4.com" &lt;reports@looking4.com&gt;</td>
+</tr>
+<tr>
+<th align=3D"right" valign=3D"baseline" nowrap=3D"nowrap">To:</th>
+<td>&lt;agentreports@travelparkinggroup.com&gt;, "bookings@emaparking.co.uk=
+" &lt;bookings@emaparking.co.uk&gt;</td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
+<div id=3D"forwardbody1">Hello Midlands Parking - Meet &amp; Greet + Uncove=
+red - Non Flex - East Midlands Airport.<br />Please find attached the new o=
+rders, amend and cancellations placed through our system.<img style=3D"visi=
+bility: hidden !important; display: block !important; height: 1px !importan=
+t; width: 1px !important; border: 0 !important; margin: 0 !important; paddi=
+ng: 0 !important;" src=3D"cid:171547242066400824d6eed545988099@emaparking.c=
+o.uk" width=3D"1" height=3D"1" border=3D"0" /></div>
+</body></html>
+
+--=_7de849151dfaa511381b6752ba57ce7e
+Content-Transfer-Encoding: base64
+Content-ID: <171547242066400824d6eed545988099@emaparking.co.uk>
+Content-Type: image/gif;
+ name=blocked.gif
+Content-Disposition: inline;
+ filename=blocked.gif;
+ size=118
+
+R0lGODlhZAAyAIAAAPrOzgAAACH5BAAAAAAALAAAAABkADIAAAJNhI+py+0Po5y02ouz3rz7D4bi
+SJbmiabqyrbuC8fyTNf2jef6zvf+DwwKh8Si8YhMKpfMpvMJjUqn1Kr1is1qt9yu9wsOi8fksvls
+KwAAOw==
+--=_7de849151dfaa511381b6752ba57ce7e--
+
+--=_b7c37e833d2c708690933301232c8d5b--
+
+--=_092aafed0effd0168aa62fc49daf2cf3
+Content-Transfer-Encoding: base64
+Content-Type: text/csv; charset=us-ascii;
+ name=OrdersPlacedToday_10556-20240511200118.csv
+Content-Disposition: attachment;
+ filename=OrdersPlacedToday_10556-20240511200118.csv;
+ size=562
+
+UmVmZXJlbmNlLE9yZGVyIFByaWNlLERyb3AgT2ZmIERhdGUvVGltZSxSZXR1cm4gRGF0ZS9UaW1l
+LENhciBSZWcsU3RhdHVzLE9yZGVyIERhdGUsRGVwYXJ0dXJlIEZsaWdodCBOdW1iZXIsRGVwYXJ0
+dXJlIFRlcm1pbmFsLFJldHVybiBGbGlnaHQgTnVtYmVyLFJldHVybiBUZXJtaW5hbCxNYWtlLE1v
+ZGVsLENhciBDb2xvdXIsQ29udGFjdCBOdW1iZXIsTm8gb2YgUGFzc2VuZ2VycyxUaGlyZCBQYXJ0
+eSBSZWZlcmVuY2UsQ3VzdG9tZXIgRnVsbCBOYW1lLFRyYW5zYWN0aW9uIEN1cnJlbmN5LFByb2R1
+Y3QgTmF0aXZlIEN1cnJlbmN5LFByb2R1Y3QgTmF0aXZlIFByaWNlLFB1cmNoYXNlIE1vZGVsLERl
+cG9zaXQgQW1vdW50LENhciBQYXJrIEJhbGFuY2UKTDRQLTEtNjQ2MjEwMCw4NC4wMCwyMDI0LzA1
+LzE3IDEzOjMwOjAwLDIwMjQvMDUvMjcgMDM6MzA6MDAsTVg2OEtISixBQ1RJVkUsMjAyNC8wNS8x
+MSAxOTo1Mzo1MSxMQTYzNSxNYWluLExBLE1haW4sTWF6ZGEsQ1g1LEJsYWNrLCs0NDc3MDczOTMx
+MTQsNCwsRW1tYSBUeWFzLEdCUCxHQlAsODQuMDAsRnVsbFByaWNlLDAuMDAsMC4wMA==
+--=_092aafed0effd0168aa62fc49daf2cf3--

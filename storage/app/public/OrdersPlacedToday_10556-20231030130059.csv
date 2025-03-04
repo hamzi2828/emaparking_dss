@@ -1,0 +1,3 @@
+Reference,Order Price,Drop Off Date/Time,Return Date/Time,Car Reg,Status,Order Date,Departure Flight Number,Departure Terminal,Return Flight Number,Return Terminal,Make,Model,Car Colour,Contact Number,No of Passengers,Third Party Reference,Customer Full Name,Transaction Currency,Product Native Currency,Product Native Price,Purchase Model,Deposit Amount,Car Park Balance
+SPS-1-6012305,48.00,2023/11/02 05:00:00,2023/11/05 23:00:00,YG70XCT,ACTIVE,2023/10/30 12:29:06,LS605,Main,FR4459,Main,JAGUAR,FPACE,BLACK,07929199368,1,,Helen Vara,GBP,GBP,48.00,FullPrice,0.00,0.00
+SPS-1-6012332,54.00,2023/11/01 03:15:00,2023/11/06 23:15:00,CV69HBF,ACTIVE,2023/10/30 12:37:02,fr4458,Main,fr4459,Main,FORD,Ranger,GREY,447834861639,2,,Michael Foster,GBP,GBP,54.00,FullPrice,0.00,0.00

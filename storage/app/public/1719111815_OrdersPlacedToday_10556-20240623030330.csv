@@ -1,0 +1,6 @@
+Reference,Order Price,Drop Off Date/Time,Return Date/Time,Car Reg,Status,Order Date,Departure Flight Number,Departure Terminal,Return Flight Number,Return Terminal,Make,Model,Car Colour,Contact Number,No of Passengers,Third Party Reference,Customer Full Name,Transaction Currency,Product Native Currency,Product Native Price,Purchase Model,Deposit Amount,Car Park Balance
+SPS-1-6563451,55.00,2024/07/03 10:30:00,2024/07/06 23:30:00,SJ17VKN,ACTIVE,2024/06/22 08:36:20,Fr9489,Main,Fr9490,Main,RENAULT,Kadjar,BLUE,07975708585,2,,Kate Martin,GBP,GBP,55.00,FullPrice,0.00,0.00
+SPS-1-6564427,84.00,2024/07/02 11:00:00,2024/07/12 16:15:00,VO66NKN,ACTIVE,2024/06/22 17:41:40,LS681,Main,FR3163,Main,Nissan,Juke,Black,07783096053,1,,Neil Westham,GBP,GBP,84.00,FullPrice,0.00,0.00
+SPS-1-6564521,90.00,2024/06/28 04:00:00,2024/07/05 12:30:00,KV68EOJ,ACTIVE,2024/06/22 18:43:40,FR6571,Main,FR6572,Main,PEUGEOT,308,GREY,07527259431,2,,Clive Harris,GBP,GBP,90.00,FullPrice,0.00,0.00
+SPS-1-6564688,90.00,2024/06/27 13:45:00,2024/07/04 21:00:00,RJ10FLN,ACTIVE,2024/06/22 20:11:26,Fr3152,Main,Fr3153,Main,Ford,Fiesta,Black,07443460971,3,,Joseph Shahar,GBP,GBP,90.00,FullPrice,0.00,0.00
+L4P-1-6563732,72.00,2024/07/04 04:00:00,2024/07/11 16:00:00,MP19UEJ,ACTIVE,2024/06/22 11:03:34,,Main,,Main,,,,+447919579844,1,,Ethan  Raistrick,GBP,GBP,72.00,FullPrice,0.00,0.00

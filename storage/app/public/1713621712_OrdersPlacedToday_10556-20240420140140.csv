@@ -1,0 +1,3 @@
+Reference,Order Price,Drop Off Date/Time,Return Date/Time,Car Reg,Status,Order Date,Departure Flight Number,Departure Terminal,Return Flight Number,Return Terminal,Make,Model,Car Colour,Contact Number,No of Passengers,Third Party Reference,Customer Full Name,Transaction Currency,Product Native Currency,Product Native Price,Purchase Model,Deposit Amount,Car Park Balance
+SPS-1-6406429,67.00,2024/05/16 15:30:00,2024/05/23 21:45:00,NA12UWK,ACTIVE,2024/04/20 13:26:47,FR5717,Main,FR3153,Main,VAUXHALL,Meriva,BROWN,07487740661,2,,Amy Moore,GBP,GBP,67.00,FullPrice,0.00,0.00
+SPS-1-6406461,70.00,2024/05/26 11:45:00,2024/06/03 08:00:00,BD12HLJ,ACTIVE,2024/04/20 13:43:06,XS21XH,Main,FR917,Main,FIAT,Panda,WHITE,07549046720,4,,Patrycja Gmyrek,GBP,GBP,70.00,FullPrice,0.00,0.00

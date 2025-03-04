@@ -1,0 +1,2 @@
+status,booked_at,booking_reference,source,product_code,product_name,airport_code,arrival_date,departure_date,price,supplier_cost,name,contact_number,car_registration,car_manufacture,car_model,car_colour,passengers,out_flight,return_flight,out_terminal,return_terminal,flight_departure_time,flight_return_time
+new,"2023-08-27 17:41:56",TT9W9DEE,"Trusted Travel",EMAMGNF,"Midlands Airport Meet and Greet - Non Flex",EMA,"2023-08-31 08:00:00","2023-09-08 21:30:00",95.00,66.50,"Sally Smith",07894965658,"VO63 MVH",NISSAN,"QASHQAI TEKNA DCI",BLACK,1,,,,,,

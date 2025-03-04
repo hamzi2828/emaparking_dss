@@ -1,0 +1,6 @@
+Reference,Order Price,Drop Off Date/Time,Return Date/Time,Car Reg,Status,Order Date,Departure Flight Number,Departure Terminal,Return Flight Number,Return Terminal,Make,Model,Car Colour,Contact Number,No of Passengers,Third Party Reference,Customer Full Name,Transaction Currency,Product Native Currency,Product Native Price,Purchase Model,Deposit Amount,Car Park Balance
+SPS-1-5930702,75.00,2023/10/06 04:00:00,2023/10/10 01:00:00,YC18KCE,ACTIVE,2023/10/01 07:40:41,LS601,Main,VH2F9P,Main,BMW,3Series,GREY,07868020471,2,,Matt Hardy,GBP,GBP,75.00,FullPrice,0.00,0.00
+SPS-1-5931386,75.00,2023/10/06 06:00:00,2023/10/10 12:15:00,YY68EVD,ACTIVE,2023/10/01 12:36:41,FR9085,Main,FR9084,Main,VAUXHALL,MokkaX,WHITE,07377177171,2,,Kerry Ellis,GBP,GBP,75.00,FullPrice,0.00,0.00
+SPS-1-5931473,90.00,2023/10/07 11:30:00,2023/10/14 22:00:00,YW14FUG,ACTIVE,2023/10/01 13:09:08,TOM7658,Main,TOM7659,Main,PEUGEOT,208,BLUE,447947636455,2,,Kate Kemp,GBP,GBP,90.00,FullPrice,0.00,0.00
+L4P-1-5932968,75.00,2023/10/04 12:30:00,2023/10/08 15:45:00,NV14UXS,ACTIVE,2023/10/01 21:24:00,FR3856,Main,FR3855,Main,Vauxhall,Astra,Red,+447473382197,2,,Stacey Brown,GBP,GBP,75.00,FullPrice,0.00,0.00
+SPS-1-5933142,70.00,2023/10/05 06:00:00,2023/10/08 23:55:00,LH59AKG,ACTIVE,2023/10/01 23:41:00,FR916,Main,FR917,Main,BMW,X1,BROWN,07592286921,1,,Krzysztof Krawczyk,GBP,GBP,70.00,FullPrice,0.00,0.00

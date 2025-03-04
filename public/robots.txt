@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /cgi-bin/
+Sitemap: https://emaparking.co.uk/sitemap.xml

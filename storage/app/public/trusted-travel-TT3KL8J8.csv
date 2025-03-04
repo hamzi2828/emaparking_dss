@@ -1,0 +1,2 @@
+status,booked_at,booking_reference,source,product_code,product_name,airport_code,arrival_date,departure_date,price,supplier_cost,name,contact_number,car_registration,car_manufacture,car_model,car_colour,passengers,out_flight,return_flight,out_terminal,return_terminal,flight_departure_time,flight_return_time
+new,"2023-07-21 10:17:50",TT3KL8J8,"Trusted Travel",EMAMGNF,"Midlands Airport Meet and Greet - Non Flex",EMA,"2023-07-24 05:00:00","2023-07-31 15:00:00",90.00,63.00,"James Kikta",07842248330,"FH13 OEG","VOLKSWAGEN ",Tiguan,White,1,,,,,,

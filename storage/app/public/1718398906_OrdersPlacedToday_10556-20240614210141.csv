@@ -1,0 +1,3 @@
+Reference,Order Price,Drop Off Date/Time,Return Date/Time,Car Reg,Status,Order Date,Departure Flight Number,Departure Terminal,Return Flight Number,Return Terminal,Make,Model,Car Colour,Contact Number,No of Passengers,Third Party Reference,Customer Full Name,Transaction Currency,Product Native Currency,Product Native Price,Purchase Model,Deposit Amount,Car Park Balance
+SPS-1-6547271,70.00,2024/06/22 06:30:00,2024/06/25 15:00:00,RF73NMK,ACTIVE,2024/06/14 20:35:12,FR1742,Main,Fr1743,Main,AUDI,A3,BLACK,07545464692,2,,Oliver Mcnally,GBP,GBP,70.00,FullPrice,0.00,0.00
+SPS-1-6547298,65.00,2024/06/15 15:30:00,2024/06/17 23:55:00,FE53UGB,ACTIVE,2024/06/14 20:50:30,FR1738,Main,FR1739,Main,MAZDA,MX5,SILVER,07533880698,2,,Jeremy Rawlins,GBP,GBP,65.00,FullPrice,0.00,0.00
