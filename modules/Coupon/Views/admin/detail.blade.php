@@ -36,6 +36,19 @@
                             </div>
                         </div>
                         <div class="panel">
+                            <div class="panel-title"><strong>{{__("Partner")}}</strong></div>
+                            <div class="panel-body">
+                                <div class="form-group">
+                                    <select name="is_partner" class="form-control">
+                                        <option value="">{{ __('-- Please Select --')}} </option>
+                                        @foreach (App\Models\Partner::all() as $partner)
+                                            <option value="{{$partner->id}}" {{@$row->is_partner == $partner->id ? 'selected' : ''}}>{{ $partner->name}} </option>
+                                        @endforeach
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="panel">
                             <div class="panel-title"><strong>{{__('Feature Image')}}</strong></div>
                             <div class="panel-body">
                                 <div class="form-group">

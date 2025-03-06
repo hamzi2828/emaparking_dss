@@ -129,7 +129,8 @@ class CouponController extends AdminController
             'quantity_limit',
             'limit_per_user',
             'image_id',
-            'auto_apply'
+            'auto_apply',
+            'is_partner'
         ];
 
         $row->fillByAttr($dataKeys,$request->input());
