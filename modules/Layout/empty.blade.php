@@ -31,7 +31,7 @@
     <!-- Styles -->
     @stack('css')
     {{--Custom Style--}}
-    <link href="{{ route('core.style.customCss') }}?v={{ time() }}" rel="stylesheet">
+    <link href="{{ route('core.style.customCss') }}?v=1.0.0" rel="stylesheet">
     <link href="{{ asset('libs/carousel-2/owl.carousel.css') }}" rel="stylesheet">
     @if(setting_item_with_lang('enable_rtl'))
         <link href="{{ asset('css/rtl.css') }}" rel="stylesheet">

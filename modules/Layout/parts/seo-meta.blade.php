@@ -24,7 +24,7 @@
     <meta name="twitter:title" content="{{$seo_meta['seo_share']['twitter']['title'] ?? $seo_meta['seo_title'] ?? $seo_meta['service_title'] ?? $page_title ?? ""}}">
     <meta name="twitter:description" content="{{$seo_meta['seo_share']['twitter']['desc'] ?? $seo_meta['seo_desc'] ?? $seo_meta['service_desc'] ?? ""}}">
     <meta name="twitter:image" content="{{ get_file_url( $seo_meta['seo_share']['twitter']['image'] ?? $seo_meta['seo_image'] ?? $seo_meta['service_image'] ?? "" , "full") }}">
-    <link rel="canonical" href="{{$seo_meta['full_url'] ?? ""}}"/>
+    {{-- <link rel="canonical" href="{{$seo_meta['full_url'] ?? ""}}"/> --}}
 @else
     @php
         if(!empty($page_title)){

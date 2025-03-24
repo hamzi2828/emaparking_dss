@@ -69,8 +69,6 @@
     {!! setting_item('head_scripts') !!}
     {!! setting_item_with_lang_raw('head_scripts') !!}
 
-
-
     <!-- Google Font -->
     <link href="https://fonts.googleapis.com/css?family=Lora:400,700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Cabin:400,500,600,700&display=swap" rel="stylesheet">
@@ -135,6 +133,7 @@
           ]
         }
         </script>
+        <link rel="canonical" href="{{ url()->current() }}" />
         @stack('tagscript')
 </head>
 

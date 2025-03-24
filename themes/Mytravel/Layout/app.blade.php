@@ -58,7 +58,7 @@
     <!-- Styles -->
     @stack('css')
     {{--Custom Style--}}
-    <link href="{{ route('core.style.customCss') }}?v={{ time() }}1" rel="stylesheet">
+    <link href="{{ route('core.style.customCss') }}?v=1.0.0" rel="stylesheet">
     <link href="{{ asset('libs/carousel-2/owl.carousel.css') }}" rel="stylesheet">
     @if(setting_item_with_lang('enable_rtl'))
         <link href="{{ asset('themes/mytravel/dist/frontend/css/rtl.css?_v='.config('app.asset_version')) }}" rel="stylesheet">
