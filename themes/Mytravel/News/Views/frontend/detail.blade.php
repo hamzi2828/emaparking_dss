@@ -42,4 +42,16 @@
 </div>
 @endsection
 
-
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        let h1Elements = document.querySelectorAll("h1"); // Select all h1 elements
+        
+        h1Elements.forEach((h1, index) => {
+            if (index !== 0) { // Skip the first h1
+                let h2 = document.createElement("h2");
+                h2.innerHTML = h1.innerHTML;
+                h1.parentNode.replaceChild(h2, h1);
+            }
+        });
+    });
+</script>

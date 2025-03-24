@@ -225,6 +225,8 @@ class BookingController extends \App\Http\Controllers\Controller
             'flight_no' => 'required',
             'arrival_time' => '',
             'departure_time' => '',
+            'group_on' => 'required',
+            'group_ref_num' => 'required_if:group_on,Yes',
         ];
 
 
@@ -301,6 +303,8 @@ class BookingController extends \App\Http\Controllers\Controller
         $booking->vehicle_manufacture = $request['vehicle_manufacture'];
         $booking->vehicle_color = $request['vehicle_color'];
         $booking->flight_no = $request['flight_no'];
+        $booking->group_on = $request['group_on'];
+        $booking->group_ref_num = $request['group_ref_num'];
 
         if (isset($request['arrival_time'])) {
             $booking->start_date = Carbon::parse($booking->start_date)->setTimeFromTimeString($request['arrival_time']);
@@ -372,6 +376,9 @@ class BookingController extends \App\Http\Controllers\Controller
             $transaction->booking_id = $booking->id;
             $transaction->save();
             $booking->wallet_transaction_id = $transaction->id;
+        }
+        if( $request['group_on'] == 'Yes') {
+            $booking->pay_now = 0;
         }
         $booking->save();
 

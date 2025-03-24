@@ -51,9 +51,6 @@ class Transaction extends Model
         'meta',
         'created_at',
         'updated_at',
-        'update_user',
-        'author_id',
-        'payment_id',
     ];
 
     /**

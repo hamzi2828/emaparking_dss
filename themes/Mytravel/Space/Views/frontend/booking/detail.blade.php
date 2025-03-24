@@ -69,6 +69,21 @@
                                 </div>
                             </li>
                         @endif
+                        @if(isset($booking)) 
+                            <li class="d-flex justify-content-between py-2">
+                                <div class="label">
+                                    <b>{{__("Group on:")}}</b>
+                                </div>
+                                <div class="val">{{ $booking->group_on }}</div>
+                            </li>
+
+                            <li class="d-flex justify-content-between py-2">
+                                <div class="label">
+                                    <b>{{__("Reference Number:")}}</b>
+                                </div>
+                                <div class="val">{{ $booking->group_ref_num != null ? $booking->group_ref_num : 'N/A' }}</div>
+                            </li>
+                        @endif
                         {{--@if($booking->getMeta("booking_type") == "by_night")
                             <li class="d-flex justify-content-between py-2">
                                 <div class="label">{{__('Nights:')}}</div>
@@ -232,9 +247,33 @@
                             @endforeach
                         @endif
                         @includeIf('Coupon::frontend/booking/checkout-coupon')
+                        
+                        <li class="d-flex justify-content-between py-2">
+                            <div class="label">{{ __("Group on:") }}</div>
+                            <div class="val d-flex gap-3">
+                                <label>
+                                    <input type="radio" name="group_on" value="No" 
+                                        {{ old('group_on', 'No') == 'No' ? 'checked' : '' }}>
+                                    No
+                                </label>
+                                <label class="ml-2">
+                                    <input type="radio" name="group_on" value="Yes" 
+                                        {{ old('group_on') == 'Yes' ? 'checked' : '' }}>
+                                    Yes
+                                </label>
+                            </div>
+                        </li>
+
+                        <li class="py-2" id="refence_num" style="display: none;">
+                            <div class="label mb-2">{{ __("Enter Reference Number:") }}</div>
+                            <div class="val">
+                                <input type="text" name="group_ref_num" value="{{ old('group_ref_num') }}" class="form-control">
+                            </div>
+                        </li>
+
                         <li class="d-flex justify-content-between py-2">
                             <div class="label">{{__("Total:")}}</div>
-                            <div class="val">{{format_money($booking->total)}}</div>
+                            <div class="val total">{{format_money($booking->total)}}</div>
                         </li>
                         @if($booking->status !='draft')
                             <li class="d-flex justify-content-between py-2">
@@ -304,7 +343,45 @@
         @endif
     </div>
 </div>
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        // Function to toggle the reference number field and required attribute
+        function toggleReferenceNum() {
+            const selectedValue = document.querySelector('input[name="group_on"]:checked')?.value;
+            const refField = document.getElementById("refence_num");
+            const inputField = document.querySelector('input[name="group_ref_num"]');
+            const totalFields = document.querySelectorAll(".total");
 
+            if (selectedValue === "Yes") {
+                refField.style.display = "block"; // Show the input field
+                inputField.setAttribute("required", "required"); // Add required attribute
+                totalFields.forEach(field => field.innerText = formatMoney(0)); // Set total to 0
+            } else {
+                refField.style.display = "none"; // Hide the input field
+                inputField.removeAttribute("required"); // Remove required attribute
+                totalFields.forEach(field => field.innerText = field.dataset.originalValue); // Restore original value
+            }
+        }
 
+        // Add event listeners to radio buttons
+        const radioButtons = document.querySelectorAll('input[name="group_on"]');
+        radioButtons.forEach(function (radio) {
+            radio.addEventListener("change", toggleReferenceNum);
+        });
 
+        // Store the original total value for restoration
+        const totalFields = document.querySelectorAll(".total");
+        totalFields.forEach(field => field.dataset.originalValue = field.innerText);
 
+        // Call the function on page load to handle pre-selected value
+        toggleReferenceNum();
+
+        // Function to format money (ensure this is available in your JS)
+        function formatMoney(amount) {
+            return new Intl.NumberFormat('en-US', {
+                style: 'currency',
+                currency: 'USD'
+            }).format(amount);
+        }
+    });
+</script>

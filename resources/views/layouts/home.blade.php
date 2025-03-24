@@ -61,7 +61,7 @@
     @livewireStyles
     @stack('css')
     {{--Custom Style--}}
-    <link href="{{ route('core.style.customCss') }}" rel="stylesheet">
+    <link href="{{ route('core.style.customCss') }}?v={{ time() }}" rel="stylesheet">
     <link href="{{ asset('libs/carousel-2/owl.carousel.css') }}" rel="stylesheet">
     @if(setting_item_with_lang('enable_rtl'))
         <link href="{{ asset('themes/mytravel/dist/frontend/css/rtl.css?_v='.config('app.asset_version')) }}" rel="stylesheet">
@@ -182,7 +182,7 @@
     <div id="mobile-menu-wrap"></div>
     <div class="top-social">
         <a target="_blank" href="https://www.facebook.com/people/Midlands-Parking-Ltd/100092626675848/"><i class="fa fa-facebook"></i></a>
-        <a href="#"><i class="fa fa-twitter"></i></a>
+        <i class="fa fa-twitter"></i>
         <a target="_blank" href="https://www.youtube.com/@MidlandsParkingLtd"><i class="fa fa-youtube-play"></i></a>
         <a target="_blank" href="https://www.instagram.com/midlandsparkingltd/"><i class="fa fa-instagram"></i></a>
     </div>
@@ -208,7 +208,7 @@
                     <div class="tn-right d-flex">
                         <div class="top-social">
                             <a target="_blank" href="https://www.facebook.com/people/Midlands-Parking-Ltd/100092626675848/"><i class="fa fa-facebook"></i></a>
-                            <a href="#"><i class="fa fa-twitter"></i></a>
+                            <i class="fa fa-twitter"></i>
                             <a target="_blank" href="https://www.youtube.com/@MidlandsParkingLtd"><i class="fa fa-youtube-play"></i></a>
                             <a target="_blank" href="https://www.instagram.com/midlandsparkingltd/"><i class="fa fa-instagram"></i></a>
                         </div>
@@ -218,8 +218,8 @@
                             <span>EN <i class="fa fa-angle-down"></i></span>
                             <div class="flag-dropdown">
                                 <ul>
-                                    <li><a href="#">Zi</a></li>
-                                    <li><a href="#">Fr</a></li>
+                                    <li><a>Zi</a></li>
+                                    <li><a>Fr</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -296,7 +296,7 @@
                                     <li class="dropdown-item"><a href="{{route('user.change_password')}}"><i class="fa fa-lock"></i> {{__("Change password")}}</a></li>
 
                                     <li class="dropdown-item">
-                                        <a  href="#" onclick="event.preventDefault(); document.getElementById('logout-form-topbar').submit();"><i class="fa fa-sign-out"></i> {{__('Logout')}}</a>
+                                        <a onclick="event.preventDefault(); document.getElementById('logout-form-topbar').submit();"><i class="fa fa-sign-out"></i> {{__('Logout')}}</a>
                                     </li>
                                 </ul>
                                 <form id="logout-form-topbar" action="{{ route('logout') }}" method="POST" style="display: none;">

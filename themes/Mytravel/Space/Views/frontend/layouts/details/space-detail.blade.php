@@ -17,10 +17,12 @@
                 {{ $translation->address }}
             @endif
            {{-- @if($row->map_lat && $row->map_lng)
-                <a target="_blank" href="https://www.google.com/maps/place/{{$row->map_lat}},{{$row->map_lng}}/@<?php echo $row->map_lat ?>,{{$row->map_lng}},{{!empty($row->map_zoom) ? $row->map_zoom : 12}}z" class="ml-1 d-block d-md-inline">
-                    - {{__('View on map')}}
-                </a>
-            @endif--}}
+                    <a target="_blank" 
+                    href="https://www.google.com/maps/place/{{$row->map_lat}},{{$row->map_lng}}/@{{$row->map_lat}},{{$row->map_lng}},{{!empty($row->map_zoom) ? $row->map_zoom : 12}}z"
+                    class="ml-1 d-block d-md-inline">
+                        <span style="color: red;">{{__('View on map')}}</span>  <!-- ✅ **Added meaningful anchor text** -->
+                    </a>
+                @endif--}}
         </div>
     </div>
     <ul class="list-group list-group-horizontal custom-social-share">

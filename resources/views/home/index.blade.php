@@ -840,7 +840,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title">
-                        <h1>Book, Park, Save, and Soar Later With Midlands Airport Parking </h1>
+                        <h2>Book, Park, Save, and Soar Later With Midlands Airport Parking </h2>
                         <h2>Convenient EMA Airport Parking Solutions for Every Traveller</h2>
                     </div>
                 </div>
@@ -848,7 +848,7 @@
 
             <div class="row">
                 <div class="col-lg-12">
-                    <p><a href="http://emaparking.co.uk">EMA airport parking</a> should not be stressful at Midlands Airport Parking Ltd. We make it a point to offer only the best meet and greet parking options at  east midlands airport. Midlands Airport Parking has a variety of parking options to suit different traveler’s needs and desires. We welcome everyone, whether you are a businessman with a busy schedule, a family on vacation, or just a visitor.</p>
+                    <p><a href="https://emaparking.co.uk/">EMA airport parking</a> should not be stressful at Midlands Airport Parking Ltd. We make it a point to offer only the best meet and greet parking options at  east midlands airport. Midlands Airport Parking has a variety of parking options to suit different traveler’s needs and desires. We welcome everyone, whether you are a businessman with a busy schedule, a family on vacation, or just a visitor.</p>
 
                     <p>Our short-stay parking is destined for short periods, incidental visits, and any business trip that requires close access to the terminal. EMA parking also offers <a href="https://emaparking.co.uk/space/midlands-meet-greet-flexible">flexible parking space</a> specific for those trips that will take a long stay and the schedule is not confirmed. For travelers prefer convenience, our ‘meet and greet’ service means you can drive right up to the terminal without having to wait for hours to search for the shuttle and roam around in stress to find a comfortable parking spot. </p>
 

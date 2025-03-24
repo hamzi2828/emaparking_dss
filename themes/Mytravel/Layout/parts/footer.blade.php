@@ -82,7 +82,7 @@
                 <div class="col-lg-4">
                     <div class="ft-about">
                         <div class="logo">
-                            <a href="#">
+                            <a>
                                 <img alt="emaparking.co.uk" src="https://emaparking.co.uk/uploads/0000/1/2023/04/08/02.png">
                             </a>
                         </div>
@@ -91,7 +91,7 @@
                         <p>Vat No. 452 561987</p>
                         <div class="fa-social">
                             <a target="_blank" href="https://www.facebook.com/people/Midlands-Parking-Ltd/100092626675848/"><i class="fa fa-facebook"></i></a>
-                            <a href="#"><i class="fa fa-twitter"></i></a>
+                            <a><i class="fa fa-twitter"></i></a>
                             <a target="_blank" href="https://www.youtube.com/@MidlandsParkingLtd"><i class="fa fa-youtube-play"></i></a>
                             <a target="_blank" href="https://www.instagram.com/midlandsparkingltd/"><i class="fa fa-instagram"></i></a>
 
@@ -112,7 +112,7 @@
                     <div class="ft-newslatter">
                         <h6>Subscribe</h6>
                         <p>Sign up for our mailing list to get latest updates and offers.</p>
-                        <form action="#" class=" fn-form pb-11">
+                        <form class=" fn-form pb-11">
                             <input placeholder="Email" type="text">
                             <button type="submit"><i class="fa fa-send"></i></button>
                         </form>

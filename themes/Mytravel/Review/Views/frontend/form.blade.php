@@ -63,16 +63,18 @@
                     @php $userInfo = $item->author; @endphp
                     <div class="media flex-column flex-md-row align-items-center align-items-md-start mb-4">
                         <div class="mr-md-5">
-                            <a class="d-block" href="#">
+                            {{-- <a class="d-block" href="#"> --}}
                                 @if($avatar_url = $userInfo->getAvatarUrl())
                                     <img class="img-fluid mb-3 mb-md-0 rounded-circle avatar-img" src="{{$avatar_url}}" alt="{{$userInfo->getDisplayName()}}">
                                 @endif
-                            </a>
+                            {{-- </a> --}}
                         </div>
                         <div class="media-body text-center text-md-left">
                             <div class="mb-4">
                                 <h6 class="font-weight-bold text-gray-3">
-                                    <a href="#">{{$userInfo->getDisplayName()}}</a>
+                                    {{-- <a href="#"> --}}
+                                        {{$userInfo->getDisplayName()}}
+                                    {{-- </a> --}}
                                 </h6>
                                 <div class="font-weight-normal font-size-14 text-gray-9 mb-2">{{display_datetime($item->created_at)}}</div>
                                 <div class="d-flex align-items-center flex-column flex-md-row mb-2">
