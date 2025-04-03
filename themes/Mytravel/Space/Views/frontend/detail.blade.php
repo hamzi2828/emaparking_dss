@@ -62,4 +62,23 @@
     <script type="text/javascript" src="{{ asset("libs/fotorama/fotorama.js") }}"></script>
     <script type="text/javascript" src="{{ asset("libs/sticky/jquery.sticky.js") }}"></script>
 {{--    <script type="text/javascript" src="{{ asset('themes/mytravel/module/space/js/single-space2.js?_ver='.config('app.asset_version')) }}"></script>--}}
+    <script>
+        // Get all <h1> elements
+        const h1Elements = document.getElementsByTagName('h1');
+
+        // Loop through all <h1> elements, starting from the second one (index 1)
+        for (let i = 1; i < h1Elements.length; i++) {
+            const h1 = h1Elements[i];
+            // Create a new <h2> element
+            const h2 = document.createElement('h2');
+            // Copy all attributes from <h1> to <h2>
+            for (let attr of h1.attributes) {
+                h2.setAttribute(attr.name, attr.value);
+            }
+            // Copy the inner HTML (content) to the new <h2>
+            h2.innerHTML = h1.innerHTML;
+            // Replace the <h1> with the new <h2>
+            h1.parentNode.replaceChild(h2, h1);
+        }
+    </script>
 @endpush

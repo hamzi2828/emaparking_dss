@@ -7,13 +7,13 @@
     @endphp
     @if($row->template_id)
         <div class="page-template-content">
-            {!! $row->getProcessedContent() !!}
+            {!! str_replace('<h1', '<h2', str_replace('</h1>', '</h2>', $row->getProcessedContent())) !!}
         </div>
     @else
         <div class="container " style="padding-top: 40px;padding-bottom: 40px;">
             <h1>{!! clean($translation->title) !!}</h1>
             <div class="blog-content">
-                {!! $translation->content !!}
+                {!! str_replace('<h1', '<h2', str_replace('</h1>', '</h2>', $translation->content)) !!}            
             </div>
         </div>
     @endif
